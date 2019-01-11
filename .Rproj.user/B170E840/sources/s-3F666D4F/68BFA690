@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1547169823118.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "68BFA690",
+    "lastKnownWriteTime" : 1547172474,
+    "last_content_update" : 1547172474875,
+    "path" : "~/MurrahCV/MurrahCV.Rmd",
+    "project_path" : "MurrahCV.Rmd",
+    "properties" : {
+        "cursorPosition" : "29,7",
+        "scrollLine" : "19"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

@@ -1,0 +1,230 @@
+---
+name: William (Hank) Murrah
+position: "Assistant Professor"
+address: "College of Education, Auburn University"
+# profilepic: profileSmall.jpg
+phone: 334-844-3806
+www: statistical-thinking.com
+email: "wmm0017@auburn.edu"
+twitter: EdStat
+github: wmmurrah
+linkedin: wmmurrah
+headcolor: 333335 #E87722 # black = 000000
+date: "`r format(Sys.time(), '%B %Y')`"
+output: vitae::awesomecv
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+library(vitae)
+```
+
+# Education
+ 
+## Ph.D. Educational Psychology, University of Virginia, 2010.
+
+* Dissertation: Comparing self-regulatory and early academic skills as predictors of later math, reading, and science elementary school achievement.
+  
+* Co-chairs: David W. Grissmer, Herbert C. Richards.
+       
+## M.Ed. Community and Agency Counseling, University of Montevallo, 1998.
+## B.S. Psychology,  University of Montevallo, 1993.
+  
+# Current Position
+
+* **Assistant Professor**, *Educational Research, Measurement, and Assessment Program, Educational Foundations, Leadership, & Technology*, **Auburn University** , 2016-present.
+
+# Research
+ 
+## Publications
+ \* indicates collaboration with students.
+
+Brock, L. L., **Murrah, W. M.**, Cottone, E. A., Mashburn, A. J., & Grissmer, D. W. (2017). An after-school intervention targeting executive function and visuospatial skills also improves classroom behavior. *International Journal of Behavioral Development*.  
+
+**Murrah, W. M.**, Kosovich, J. J., & Hulleman, C. S. (2016). Measuring Fidelity in Educational Settings. In Roberts, G., Vaughn, S., Beretvas, T., & Wong, V. (Eds.), *Implementation Fidelity in Randomized Educational Trials: An Applied Perspective.* Routledge.
+
+Cameron, C. E., Cottone, E. A., **Murrah, W. M.** & Grissmer, D. W. (2016). How are motor skills linked to children's school performance and academic achievement? *Child Development Perspectives, 10(2)*, 93-98.
+
+\*Kim, H., Schmidt, K. M., **Murrah, W. M.**, Cameron, C. E., & Grissmer, D. (2015). A Rasch Analysis of the KeyMath-3 Diagnostic Assessment. *Journal of Applied Measurement*, 16(4), 365-378.
+
+\*Kim, H., **Murrah, W. M.**, Cameron, C. E., Brock, L. L., Cottone, E. A., & Grissmer, D. (2014). Psychomotor properties of the Teacher-Reported Motor Skills Rating Scale. *Journal of Psychoeducational Assessment*, first published on October 6, 2014 as doi:10.1177/0734282914551536.
+
+Ponitz, C. C., Brock, L. L., **Murrah, W. M.**, Bell, L., Worzalla, S., Grissmer, D. W., & Morrison, F. J. (2012). Fine motor skills and executive function both contribute to kindergarten achievement. *Child Development*, 83(4), 1229-1244.
+
+Grissmer, D., Grimm, K.J., Aiyer, S.M., **Murrah, W. M.**, & Steele, J.S. (2010). Fine motor skills and early comprehension of the world: Two new school readiness indicators. *Developmental Psychology*, 46(5), 1008-1017.
+
+## Publications under Review
+\* indicates collaboration with students.
+
+Murrah, W. M. (under reveiw). Impact of disproportionate measurement error on comparing regression coefficients. *Psychological Methods*.
+
+\*Friesen, K. B., Barfield, J. W., Murrah, W. M., Dugas, J. R., Andrews, J. R., & Oliver, G. D. (under review). Upper body kinematics that best explain National Collegiate Athletic Association (NCAA) division I softball pitcher's ERA. *Journal of Sports Sciences*.
+
+
+## Publications in Preparation
+\* indicates collaboration with students.
+
+Chesser, S. S, **Murrah, W. M.**, Forbes, S. A. (in preparation). Impact of personality and choice of instructional media on students' performance in online and face-to-face courses.
+
+**Murrah. W. M.**, Frances, M., Silverman, D., Hulleman, C. S. (in preparation). Network analysis of front-door math courses in community college.
+
+\*Wright, T. K., **Murrah, W. M.**, Zabala M. E. (in preparation). Knee valgus angel versus abduction: comparative analysis of medial knee collapse definition in femal athletes.
+
+Hulleman, C. S., Tibbetts, Y., **Murrah, W. M.** (in preparation). Impacts of a utility value intervention among community college students in front-door math courses.
+
+Hulleman, C. S., Lee, M.,**Murrah, W. M.** et al. (in preparation). From politics to hurricanes: Lessons learned from a research-practice partnership focused on improving motivation in community college math. 
+
+## Presentations
+
+Francis, M., Tibbetts, Y., Murrah, W. M., Phelps, J., Silverman, D., Moran, M., Kosovich, J., & Hulleman, C. (2018) *Using a utility-value intervention to remove barriers in gateway math courses.* Poster presented at the 2018 Understanding Interventions Conference, Baltimore, MD.
+
+Murrah, W. M., Ruzek, E. A., & Grissmer, D. W. (2017) *Children's fine motor skills are important for school readiness and science achievement.* Symposium presented at the Society for Research in Child Development 2017 Biennial Meeting, Austin, TX. 
+
+Murrah, W. M.(2015) *The Relative Importance of School Readiness Skills as Predictors of First, Third, and Eighth Grade Achievement*. Poster presented at the Society for Research in Child Development Biennial Meeting, Philadelphia, PA.
+
+Murrah, W. M., Grissmer, D., Ko, Michelle, Player, D., Cabell, S., O'Brien, R. H.(2015). *Early achievement impacts of Core Knowledge charter schools on early comprehension and general knowledge through 1st grade.* Presented at Association for Education Finance and Policy Annual Conference. Washington, DC.
+
+Murrah. W. M. (2013) *The evolution and evaluation of a play-based, after-school curriculum that improves executive function, visuospatial and math skills for disadvantaged children.* Organizer of seminar and presenter at the Society for Research on Educational Effectiveness Fall Conference. Washington, DC.
+
+Murrah. W. M. (2011). *Explaining the association between fine motor skills and math achievement.* Seminar presented to the faculty and students of the developmental psychology department at the University of Virginia. Charlottesville, VA
+
+Murrah, W. M. (2011). *Fine motor skills predict later math, science, and reading achievement*. Symposium presented at the Society for Research in Child Development 2011 Biennial Meeting, Montreal, Quebec.
+
+Murrah, W. M. (2010). *Fine motor skills as a predictor of later math, reading, and science elementary achievement.* Paper presented to the Conference on Human Development, 2010 Annual Meeting, New York City, NY.
+
+Murrah, W. M. (2009). *Which developmental skills predict later math, reading, and science elementary school achievement?* Paper presented to National Science Foundation Advisory Board, 2009. Charlottesville, VA.
+
+
+# Grant Funding
+
+## Current Funding
+
+  Removing Barriers to Success in Mathematics: An Integrative Expectancy-Value Intervention. PI: Chris Hulleman. *National Science Foundation*. Approximately $1,500,000. Project Period: 9/01/2015 - 8/31/2019. Role: Senior Personnel/Methodologist.
+  
+## Proposed Funding
+
+Advancing Informal STEM Learning: Facilitating STEM Learning Pathways for Students Through a Systematic STEM Environment (SysSTEM-E). PI: Christine Schnittka. *National Science Foundation*. $1,750,000. Projected Period: 2019-2024. Role: Co-PI.
+
+Tools for Leaders: Advancing Team Effectiveness Through Leader Development. PI: Joellen Sefton. *Department of Defense*. $1,086,000. Projected Period: 2019-2022. Role: Co-PI.
+
+Performance Enhancement through Training Development: Implementation of Cognitive Task Analysis. PI: Joellen Sefton. *Department of Defense*. $635,000. Projected Period: 2019-2022. Role: Co-PI.
+
+How the Motor System Reflects Impulsivity and Inhibitory Control in Healthy Young Adults. PI: Kristina Neely. *Auburn University Intramural Grants Program*. $20,600. Role: Co-PI.
+
+  
+## Previous Funding
+
+Developmental Skills Linked to Math and Science Achievement: An Interdisciplinary Data-Intensive Approach to Identification and Improvement through Experimental Intervention. *National Science Foundation*. Approximately $2,500,000. Project Period: 9/1/2013 - 8/31/2018. Role: Research Scientist/Methodologist.
+
+Evaluation of Core Knowledge charter schools in Colorado. *Institute of Education Sciences*. Approximately $4,900,000. Project Period: 07/01/2009 - 12/31/2015. Role: Research Scientist/Methodologist.
+
+Efficacy of the WINGS after-school social and emotional learning (SEL) program. *Institute of Education Sciences*. Approximately $2,700,000. Project Period: 09/01/2011 - 8/31/2015. Role: Research Scientist/Methodologist. 
+
+Math and science achievement gaps for minority and disadvantaged students: Developmental and environmental influences from nine months to 8th grade, *National Science Foundation*, 2008 - 2012 ($952,710) Role: Co-Investigator/Methodologist.
+
+Improving fine motor skill development to promote mathematical ability, *Institute of Education Sciences*, 2009 - 2012 ($462,765) Role: Primary Data Analyst
+
+New kindergarten readiness indicators for math and science: Next steps in validation, communication and projecting policy impacts, *National Science Foundation*, 2010-2012 ($297,653) Role: Co-investigator/Methodologist. 
+
+## Other Research Experience
+
+Research Associate, *University of Virginia*, Summer 2010--Spring 2014.
+
+Graduate Research Assistant, *University of Virginia*, Summer 2009--Spring 2010.
+
+Curry Participant Pool Coordinator, *University of Virginia*, Summer 2008- Spring 2009.
+
+Graduate Research Assistant, *University of Virginia*, 2005-2006.
+
+# Teaching
+
+Design and Analysis III, ERMA 8320, *Auburn University*, Fall 2018.
+
+Design and Analysis II, ERMA 7310, *Auburn University*, Spring 2018.
+
+Design and Analysis I, ERMA 7300, *Auburn University*, Spring 2017 - Fall 2018.
+
+Basic Methods in Education Research, ERMA 7200, *Auburn University*, Fall 2016.
+
+Confirmatory Factor Analysis and Scale Reliability, Statistical Programming Workshop, University of Virginia, January, 2016.
+
+Introduction to Multiple Imputation with the `mice` package, Statistical Programming Workshop, University of Virginia, October, 2015.
+
+Introduction to Multilevel Modeling, Statistical Programming Workshop, FOCAL Lab, University of Virginia, July, 2015. 
+
+Introduction to Statistical Programming with R, Statistical Programming Workshop, University of Virginia, Spring, 2015.
+
+Introduction to Linear Models, University of Virginia, Curry Summer Undergraduate Research Program, Summer 2012.
+
+Introduction to Inferential Statistics, University of Virginia, Curry Summer Undergraduate Research Program, Summer 2011.
+
+Child Development, co-instructor, University of Virginia, Spring 2008.
+
+Child Development, teaching assistant, University of Virginia, 2006-2007.
+
+Child Development, co-instructor, Hampton Roads Center, University of Virginia, Spring 2005.
+
+## Professional Activities
+
+
+Editorial Board for *Interdisciplinary Education and Psychology*.
+
+Reviewer for *Child Development*
+
+Reviewer for *Journal of Abnormal Child Psychology* 
+
+Reviewer for *Early Childhood Research Quarterly* 
+
+Member, *American Statistical Association *
+
+Member, *Society for Research in Child Development*
+
+Member, *American Educational Research Association*
+
+## Invited Workshops
+
+SREE Workshop: Intervention Fidelity -Models, Methods, and Applications, Fall 2014
+
+
+## Trainings and Conferences Attended
+
+Intensive Longitudinal Methods, Statistical Horizons, October 23-24, 2015
+
+Mediation, Moderation, and Conditional Process Analysis, Andrew F. Hayes, University of Virginia, June 4-5, 2015  
+
+Institute of Education Sciences Summer Research Training Institute: Cluster-Randomized Trials, Northwestern University, July 15-26, 2012
+
+UseR! 2012, Vanderbilt University, June 11-15, 2012
+
+Functional MRI in Clinical Research and Practice: Measurement, Design and Analysis, Carnegie Mellon University/University of Pittsburgh, June 13-17, 2011
+
+Missing Data Workshop, University of Virginia, June 1-7, 2011
+
+Society for Research in Child Development Conference, Montreal, March 31-April 3, 2011
+
+Multi-Modal Neuroimaging Training, Martinos Medical Center, Boston, December 13-17, 2010
+
+Conference on Human Development, New York, April 9-12, 2010
+
+
+## Software Proficiency
+
+R, Mplus, \LaTeX, SPSS
+
+# Professional Experience
+
+Research Scientist, *University of Virginia*, Charlottesville, VA, 2013-2016.
+
+Postdoctoral Fellow, *University of Virgina*, Charlottesville, VA, 2010-2013.
+
+Team Building Coordinator, *Charlottesville's Challenge Course*, Charlottesville, VA, 2002 - 2004.
+
+Counselor/Intervention Specialist, *Hoover City School System*, Hoover, AL, 1999 - 2002.
+
+Bridges Drug Education Program Instructor, *Hoover City School System*, Hoover, AL, 1999 - 2002.
+
+Independent Contract Work, *Central Alabama*, 1997 - 2002.
+
+Adventure Based Counselor/Case Manager, *Bradford Health Services*, Pelham, AL, 1995 - 1997.
+
+Conflict Resolution Counselor, *Jemison Boy's Ranch*, Jemison, AL, 1993 - 1995.
