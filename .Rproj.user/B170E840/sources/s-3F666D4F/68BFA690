@@ -5,15 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "0",
+    "hash" : "1508310064",
     "id" : "68BFA690",
-    "lastKnownWriteTime" : 1547172474,
-    "last_content_update" : 1547172474875,
+    "lastKnownWriteTime" : 1547174839,
+    "last_content_update" : 1547174839622,
     "path" : "~/MurrahCV/MurrahCV.Rmd",
     "project_path" : "MurrahCV.Rmd",
     "properties" : {
-        "cursorPosition" : "29,7",
-        "scrollLine" : "19"
+        "cursorPosition" : "42,0",
+        "scrollLine" : "35"
     },
     "relative_order" : 1,
     "source_on_save" : false,
