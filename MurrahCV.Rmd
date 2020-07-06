@@ -23,10 +23,6 @@ library(vitae)
  
 ## Ph.D. Educational Psychology, University of Virginia, 2010.
 
-* Dissertation: Comparing self-regulatory and early academic skills as predictors of later math, reading, and science elementary school achievement.
-  
-* Co-chairs: David W. Grissmer, Herbert C. Richards.
-       
 ## M.Ed. Community and Agency Counseling, University of Montevallo, 1998.
 ## B.S. Psychology,  University of Montevallo, 1993.
   
@@ -63,7 +59,7 @@ Grissmer, D., Grimm, K.J., Aiyer, S.M., **Murrah, W. M.**, & Steele, J.S. (2010)
 ## Publications under Review
 \* indicates collaboration with students.
 
-Murrah, W. M. (under reveiw). Impact of disproportionate measurement error on comparing regression coefficients. *Psychological Methods*.
+
 
 \*Friesen, K. B., Barfield, J. W., Murrah, W. M., Dugas, J. R., Andrews, J. R., & Oliver, G. D. (under review). Upper body kinematics that best explain National Collegiate Athletic Association (NCAA) division I softball pitcher's ERA. *Journal of Sports Sciences*.
 \end{comment}
@@ -71,16 +67,11 @@ Murrah, W. M. (under reveiw). Impact of disproportionate measurement error on co
 ## Publications in Preparation
 \* indicates collaboration with students.
 
-Chesser, S. S, **Murrah, W. M.**, Forbes, S. A. (in preparation). Impact of personality and choice of instructional media on students' performance in online and face-to-face courses.
-
 **Murrah. W. M.**, Frances, M., Silverman, D., Hulleman, C. S. (in preparation). Network analysis of front-door math courses in community college.
-
-\*Wright, T. K., **Murrah, W. M.**, Zabala M. E. (in preparation). Knee valgus angel versus abduction: comparative analysis of medial knee collapse definition in femal athletes.
 
 Hulleman, C. S., Tibbetts, Y., **Murrah, W. M.** (in preparation). Impacts of a utility value intervention among community college students in front-door math courses.
 
 Hulleman, C. S., Lee, M.,**Murrah, W. M.** et al. (in preparation). From politics to hurricanes: Lessons learned from a research-practice partnership focused on improving motivation in community college math. 
-
 ## Presentations
 
 Francis, M., Tibbetts, Y., Murrah, W. M., Phelps, J., Silverman, D., Moran, M., Kosovich, J., & Hulleman, C. (2018) *Using a utility-value intervention to remove barriers in gateway math courses.* Poster presented at the 2018 Understanding Interventions Conference, Baltimore, MD.
@@ -106,7 +97,7 @@ Murrah, W. M. (2009). *Which developmental skills predict later math, reading, a
 
 ## Current Funding
 
-  Removing Barriers to Success in Mathematics: An Integrative Expectancy-Value Intervention. PI: Chris Hulleman. *National Science Foundation*. Approximately $1,500,000. Project Period: 9/01/2015 - 8/31/2019. Role: Senior Personnel/Methodologist.
+
   
 ## Proposed Funding
 
@@ -120,6 +111,8 @@ How the Motor System Reflects Impulsivity and Inhibitory Control in Healthy Youn
 
   
 ## Previous Funding
+
+Removing Barriers to Success in Mathematics: An Integrative Expectancy-Value Intervention. PI: Chris Hulleman. *National Science Foundation*. Approximately $1,500,000. Project Period: 9/01/2015 - 8/31/2019. Role: Senior Personnel/Methodologist.
 
 Developmental Skills Linked to Math and Science Achievement: An Interdisciplinary Data-Intensive Approach to Identification and Improvement through Experimental Intervention. *National Science Foundation*. Approximately $2,500,000. Project Period: 9/1/2013 - 8/31/2018. Role: Research Scientist/Methodologist.
 
@@ -216,7 +209,7 @@ Conference on Human Development, New York, April 9-12, 2010
 
 ## Software Proficiency
 
-R, Mplus, \LaTeX, SPSS
+R, Mplus, \LaTeX, SPSS, Python, Stan, JAGS
 
 # Professional Experience
 

@@ -1,0 +1,497 @@
+\documentclass[11pt,]{article}
+\usepackage[sc, osf]{mathpazo}
+\usepackage{amssymb,amsmath}
+\usepackage{ifxetex,ifluatex}
+\usepackage{fixltx2e} % provides \textsubscript
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+\else % if luatex or xelatex
+  \ifxetex
+    \usepackage{mathspec}
+  \else
+    \usepackage{fontspec}
+  \fi
+  \defaultfontfeatures{Ligatures=TeX,Scale=MatchLowercase}
+\fi
+% use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+% use microtype if available
+\IfFileExists{microtype.sty}{%
+\usepackage{microtype}
+\UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\usepackage[margin=1in]{geometry}
+
+
+
+
+\setlength{\emergencystretch}{3em}  % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{0}
+% Redefines (sub)paragraphs to behave more like sections
+\ifx\paragraph\undefined\else
+\let\oldparagraph\paragraph
+\renewcommand{\paragraph}[1]{\oldparagraph{#1}\mbox{}}
+\fi
+\ifx\subparagraph\undefined\else
+\let\oldsubparagraph\subparagraph
+\renewcommand{\subparagraph}[1]{\oldsubparagraph{#1}\mbox{}}
+\fi
+
+% Now begins the stuff that I added.
+% ----------------------------------
+
+% Custom section fonts
+\usepackage{sectsty}
+\sectionfont{\rmfamily\mdseries\large\bf}
+\subsectionfont{\rmfamily\mdseries\normalsize\itshape}
+
+
+% Make lists without bullets
+\renewenvironment{itemize}{
+  \begin{list}{}{
+    \setlength{\leftmargin}{1.5em}
+  }
+}{
+  \end{list}
+}
+
+
+% Make parskips rather than indent with lists.
+\usepackage{parskip}
+\usepackage{titlesec}
+\titlespacing\section{0pt}{12pt plus 4pt minus 2pt}{4pt plus 2pt minus 2pt}
+\titlespacing\subsection{0pt}{12pt plus 4pt minus 2pt}{4pt plus 2pt minus 2pt}
+
+% Use fontawesome. Note: you'll need TeXLive 2015. Update.
+\usepackage{fontawesome}
+
+% Fancyhdr, as I tend to do with these personal documents.
+\usepackage{fancyhdr,lastpage}
+\pagestyle{fancy}
+\renewcommand{\headrulewidth}{0.0pt}
+\renewcommand{\footrulewidth}{0.0pt}
+\lhead{}
+\chead{}
+\rhead{}
+\lfoot{
+\cfoot{\scriptsize  William M. Murrah - CV }}
+\rfoot{\scriptsize \thepage/{\hypersetup{linkcolor=black}\pageref{LastPage}}}
+
+% Always load hyperref last.
+\usepackage{hyperref}
+\PassOptionsToPackage{usenames,dvipsnames}{color} % color is loaded by hyperref
+
+\hypersetup{unicode=true,
+            pdftitle={William M. Murrah:  CV (Curriculum Vitae)},
+            pdfauthor={William M. Murrah},
+            pdfkeywords={education, educational psychology},
+            colorlinks=true,
+            linkcolor=blue,
+            citecolor=Blue,
+            urlcolor=blue,
+            breaklinks=true, bookmarks=true}
+\urlstyle{same}  % don't use monospace font for urls
+
+\begin{document}
+
+
+\centerline{\huge \bf William M. Murrah}
+
+\vspace{2 mm}
+
+\hrule
+
+\vspace{2 mm}
+
+\moveleft.5\hoffset\centerline{Assistant Professor, Educational Research, Measurement, and Analysis
+Program}
+\moveleft.5\hoffset\centerline{Auburn University, Auburn AL 36849}
+\moveleft.5\hoffset\centerline{ \faEnvelopeO \hspace{1 mm} \href{mailto:}{\tt \href{mailto:wmm0017@auburn.edu}{\nolinkurl{wmm0017@auburn.edu}}} \hspace{1 mm}  \faPhone \hspace{1 mm}  334/844-3806  \hspace{1 mm}  \faGithub \hspace{1 mm} \href{http://github.com/wmmurrah}{\tt wmmurrah} \hspace{1 mm}    \faGlobe \hspace{1 mm} \href{http://statistical-thinking.com}{\tt statistical-thinking.com}    | \emph{Updated:} \today}
+
+\vspace{2 mm}
+
+\hrule
+
+
+\hypertarget{education}{%
+\section{Education}\label{education}}
+
+\hypertarget{ph.d.-educational-psychology-university-of-virginia-2010.}{%
+\subsection{Ph.D.~Educational Psychology, University of Virginia,
+2010.}\label{ph.d.-educational-psychology-university-of-virginia-2010.}}
+
+\begin{itemize}
+\item
+  Dissertation: Comparing self-regulatory and early academic skills as
+  predictors of later math, reading, and science elementary school
+  achievement.
+\item
+  Co-chairs: David W. Grissmer, Herbert C. Richards.
+\end{itemize}
+
+\hypertarget{m.ed.-community-and-agency-counseling-university-of-montevallo-1998.}{%
+\subsection{M.Ed. Community and Agency Counseling, University of
+Montevallo,
+1998.}\label{m.ed.-community-and-agency-counseling-university-of-montevallo-1998.}}
+
+\hypertarget{b.s.-psychology-university-of-montevallo-1993.}{%
+\subsection{B.S. Psychology, University of Montevallo,
+1993.}\label{b.s.-psychology-university-of-montevallo-1993.}}
+
+\hypertarget{current-position}{%
+\section{Current Position}\label{current-position}}
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Assistant Professor}, \emph{Educational Research, Measurement,
+  and Assessment Program, Educational Foundations, Leadership, \&
+  Technology}, \textbf{Auburn University} , 2016-present.
+\end{itemize}
+
+\hypertarget{research}{%
+\section{Research}\label{research}}
+
+\hypertarget{publications}{%
+\subsection{Publications}\label{publications}}
+
+* indicates collaboration with students.
+
+\textbf{Murrah, W M.} (2020) Compound Bias Due to Measurement Error When
+Comparing Regression Coefficients. \emph{Educational and Psychological
+Measurement} 80(3), 548-577.
+
+Chesser, S. S, \textbf{Murrah, W. M.}, Forbes, S. A. (2020). Impact of
+personality and choice of instructional media on students' performance
+in online and face-to-face courses, \emph{Computers in Human Behavior}.
+
+*Brinkerhoff, S. A.,\textbf{Murrah, W. M.}, Hutchison, Z., Miller, M.,
+\& Roper, J. A. (2019) Words matter: Instructions dictate
+``self-selected'' walking speed in young adults. \emph{Gait \& Posture}.
+
+Frug'e, A.D., *Smith, K.S., Riviere, A.J., Demark-Wahnefried, W.,
+Arthur, A.E., \textbf{Murrah, W.M.}, Morrow, C.D., Arnold, R.D. \&
+Braxton-Lloyd, K. (2019). Primary outcomes of a randomized controlled
+crossover trial to explore the effects of a high chlorophyll dietary
+intervention to reduce colon cancer risk in adults: The Meat and Three
+Greens (M3G) Feasibility Trial. \emph{Nutrients} 11(10), 2349.
+
+*Friesen, K. B., Barfield, J. W., \textbf{Murrah, W. M.}, Dugas, J. R.,
+Andrews, J. R., \& Oliver, G. D. (2019). The association of upper body
+kinematics and ERA of National Collegiate Athletics Association Division
+I softball pitchers. \emph{Journal of Strength and Conditioning
+Research}.
+
+Brock, L. L., \textbf{Murrah, W. M.}, Cottone, E. A., Mashburn, A. J.,
+\& Grissmer, D. W. (2017). An after-school intervention targeting
+executive function and visuospatial skills also improves classroom
+behavior. \emph{International Journal of Behavioral Development}.
+
+\textbf{Murrah, W. M.}, Kosovich, J. J., \& Hulleman, C. S. (2016).
+Measuring Fidelity in Educational Settings. In Roberts, G., Vaughn, S.,
+Beretvas, T., \& Wong, V. (Eds.), \emph{Implementation Fidelity in
+Randomized Educational Trials: An Applied Perspective.} Routledge.
+
+Cameron, C. E., Cottone, E. A., \textbf{Murrah, W. M.} \& Grissmer, D.
+W. (2016). How are motor skills linked to children's school performance
+and academic achievement? \emph{Child Development Perspectives, 10(2)},
+93-98.
+
+*Kim, H., Schmidt, K. M., \textbf{Murrah, W. M.}, Cameron, C. E., \&
+Grissmer, D. (2015). A Rasch Analysis of the KeyMath-3 Diagnostic
+Assessment. \emph{Journal of Applied Measurement}, 16(4), 365-378.
+
+*Kim, H., \textbf{Murrah, W. M.}, Cameron, C. E., Brock, L. L., Cottone,
+E. A., \& Grissmer, D. (2014). Psychomotor properties of the
+Teacher-Reported Motor Skills Rating Scale. \emph{Journal of
+Psychoeducational Assessment}, first published on October 6, 2014 as
+\url{doi:10.1177/0734282914551536}.
+
+Ponitz, C. C., Brock, L. L., \textbf{Murrah, W. M.}, Bell, L., Worzalla,
+S., Grissmer, D. W., \& Morrison, F. J. (2012). Fine motor skills and
+executive function both contribute to kindergarten achievement.
+\emph{Child Development}, 83(4), 1229-1244.
+
+Grissmer, D., Grimm, K.J., Aiyer, S.M., \textbf{Murrah, W. M.}, \&
+Steele, J.S. (2010). Fine motor skills and early comprehension of the
+world: Two new school readiness indicators. \emph{Developmental
+Psychology}, 46(5), 1008-1017.
+
+\hypertarget{publications-in-press}{%
+\subsection{Publications in Press}\label{publications-in-press}}
+
+* indicates collaboration with students.
+
+*Wright, T. K., \textbf{Murrah, W. M.}, Zabala M. E. (in press). Knee
+Valgus vs.~Knee Abduction Angle: Comparative Analysis of Medial Knee
+Collapse Definitions in Female Athletes, \emph{Journal of Biomechanical
+Engineering}.
+
+\hypertarget{publications-in-preparation}{%
+\subsection{Publications in
+Preparation}\label{publications-in-preparation}}
+
+* indicates collaboration with students.
+
+\textbf{Murrah. W. M.}, Frances, M., Silverman, D., Hulleman, C. S. (in
+preparation). Student trajectories through front-door math courses in
+community college.
+
+Hulleman, C. S., Tibbetts, Y., \textbf{Murrah, W. M.} (in preparation).
+Impacts of a utility value intervention among community college students
+in front-door math courses.
+
+Hulleman, C. S., Lee, M.,\textbf{Murrah, W. M.} et al.~(in preparation).
+From politics to hurricanes: Lessons learned from a research-practice
+partnership focused on improving motivation in community college math.
+
+\hypertarget{presentations}{%
+\subsection{Presentations}\label{presentations}}
+
+Francis, M., Tibbetts, Y., Murrah, W. M., Phelps, J., Silverman, D.,
+Moran, M., Kosovich, J., \& Hulleman, C. (2018) \emph{Using a
+utility-value intervention to remove barriers in gateway math courses.}
+Poster presented at the 2018 Understanding Interventions Conference,
+Baltimore, MD.
+
+Murrah, W. M., Ruzek, E. A., \& Grissmer, D. W. (2017) \emph{Children's
+fine motor skills are important for school readiness and science
+achievement.} Symposium presented at the Society for Research in Child
+Development 2017 Biennial Meeting, Austin, TX.
+
+Murrah, W. M.(2015) \emph{The Relative Importance of School Readiness
+Skills as Predictors of First, Third, and Eighth Grade Achievement}.
+Poster presented at the Society for Research in Child Development
+Biennial Meeting, Philadelphia, PA.
+
+Murrah, W. M., Grissmer, D., Ko, Michelle, Player, D., Cabell, S.,
+O'Brien, R. H.(2015). \emph{Early achievement impacts of Core Knowledge
+charter schools on early comprehension and general knowledge through 1st
+grade.} Presented at Association for Education Finance and Policy Annual
+Conference. Washington, DC.
+
+Murrah. W. M. (2013) \emph{The evolution and evaluation of a play-based,
+after-school curriculum that improves executive function, visuospatial
+and math skills for disadvantaged children.} Organizer of seminar and
+presenter at the Society for Research on Educational Effectiveness Fall
+Conference. Washington, DC.
+
+Murrah. W. M. (2011). \emph{Explaining the association between fine
+motor skills and math achievement.} Seminar presented to the faculty and
+students of the developmental psychology department at the University of
+Virginia. Charlottesville, VA
+
+Murrah, W. M. (2011). \emph{Fine motor skills predict later math,
+science, and reading achievement}. Symposium presented at the Society
+for Research in Child Development 2011 Biennial Meeting, Montreal,
+Quebec.
+
+Murrah, W. M. (2010). \emph{Fine motor skills as a predictor of later
+math, reading, and science elementary achievement.} Paper presented to
+the Conference on Human Development, 2010 Annual Meeting, New York City,
+NY.
+
+Murrah, W. M. (2009). \emph{Which developmental skills predict later
+math, reading, and science elementary school achievement?} Paper
+presented to National Science Foundation Advisory Board, 2009.
+Charlottesville, VA.
+
+\hypertarget{grant-funding}{%
+\section{Grant Funding}\label{grant-funding}}
+
+\hypertarget{current-funding}{%
+\subsection{Current Funding}\label{current-funding}}
+
+Auburn University National Alumni Council Grant Educational Learning
+Community Improvement. PI: Andrew Pendola. \$1,617. Grant to support
+QMER Workshop development and implementation.
+
+\hypertarget{pending-funding}{%
+\subsection{Pending Funding}\label{pending-funding}}
+
+Strategic Teams Engaging in Meaningful Learning \& Leadership (STEM-L2).
+PI: Victoria Cardullo. \emph{National Science Foundation}. Approximately
+1,500,000. Project Period 9/01/2021 - 8/31/2025. Role: Co-Investigator.
+
+\hypertarget{previous-funding}{%
+\subsection{Previous Funding}\label{previous-funding}}
+
+Removing Barriers to Success in Mathematics: An Integrative
+Expectancy-Value Intervention. PI: Chris Hulleman. \emph{National
+Science Foundation}. Approximately \$1,500,000. Project Period:
+9/01/2015 - 8/31/2019. Role: Senior Personnel/Methodologist.
+
+Developmental Skills Linked to Math and Science Achievement: An
+Interdisciplinary Data-Intensive Approach to Identification and
+Improvement through Experimental Intervention. \emph{National Science
+Foundation}. Approximately \$2,500,000. Project Period: 9/1/2013 -
+8/31/2018. Role: Research Scientist/Methodologist.
+
+Evaluation of Core Knowledge charter schools in Colorado.
+\emph{Institute of Education Sciences}. Approximately \$4,900,000.
+Project Period: 07/01/2009 - 12/31/2015. Role: Research
+Scientist/Methodologist.
+
+Efficacy of the WINGS after-school social and emotional learning (SEL)
+program. \emph{Institute of Education Sciences}. Approximately
+\$2,700,000. Project Period: 09/01/2011 - 8/31/2015. Role: Research
+Scientist/Methodologist.
+
+Math and science achievement gaps for minority and disadvantaged
+students: Developmental and environmental influences from nine months to
+8th grade, \emph{National Science Foundation}, 2008 - 2012 (\$952,710)
+Role: Co-Investigator/Methodologist.
+
+Improving fine motor skill development to promote mathematical ability,
+\emph{Institute of Education Sciences}, 2009 - 2012 (\$462,765) Role:
+Primary Data Analyst
+
+New kindergarten readiness indicators for math and science: Next steps
+in validation, communication and projecting policy impacts,
+\emph{National Science Foundation}, 2010-2012 (\$297,653) Role:
+Co-investigator/Methodologist.
+
+\hypertarget{other-research-experience}{%
+\subsection{Other Research Experience}\label{other-research-experience}}
+
+Research Associate, \emph{University of Virginia}, Summer 2010--Spring
+2014.
+
+Graduate Research Assistant, \emph{University of Virginia}, Summer
+2009--Spring 2010.
+
+Curry Participant Pool Coordinator, \emph{University of Virginia},
+Summer 2008- Spring 2009.
+
+Graduate Research Assistant, \emph{University of Virginia}, 2005-2006.
+
+\hypertarget{teaching}{%
+\section{Teaching}\label{teaching}}
+
+Introduction to Structural Equation Modeling, ERMA 8240, \emph{Auburn
+University}, Spring 2019 -- Present.
+
+Design and Analysis III, ERMA 8320, \emph{Auburn University}, Fall 2018.
+
+Design and Analysis II, ERMA 7310, \emph{Auburn University}, Spring 2018
+-- Present.
+
+Design and Analysis I, ERMA 7300, \emph{Auburn University}, Spring 2017
+- Fall 2018 -- Present.
+
+Basic Methods in Education Research, ERMA 7200, \emph{Auburn
+University}, Fall 2016 -- Present.
+
+Confirmatory Factor Analysis and Scale Reliability, Statistical
+Programming Workshop, University of Virginia, January, 2016.
+
+Introduction to Multiple Imputation with the \texttt{mice} package,
+Statistical Programming Workshop, University of Virginia, October, 2015.
+
+Introduction to Multilevel Modeling, Statistical Programming Workshop,
+FOCAL Lab, University of Virginia, July, 2015.
+
+Introduction to Statistical Programming with R, Statistical Programming
+Workshop, University of Virginia, Spring, 2015.
+
+Introduction to Linear Models, University of Virginia, Curry Summer
+Undergraduate Research Program, Summer 2012.
+
+Introduction to Inferential Statistics, University of Virginia, Curry
+Summer Undergraduate Research Program, Summer 2011.
+
+Child Development, co-instructor, University of Virginia, Spring 2008.
+
+Child Development, teaching assistant, University of Virginia,
+2006-2007.
+
+Child Development, co-instructor, Hampton Roads Center, University of
+Virginia, Spring 2005.
+
+\hypertarget{professional-activities}{%
+\subsection{Professional Activities}\label{professional-activities}}
+
+Editorial Board for \emph{Interdisciplinary Education and Psychology}.
+
+Reviewer for \emph{Child Development}
+
+Reviewer for \emph{Journal of Abnormal Child Psychology}
+
+Reviewer for \emph{Early Childhood Research Quarterly}
+
+Member, \emph{American Statistical Association }
+
+Member, \emph{Society for Research in Child Development}
+
+Member, \emph{American Educational Research Association}
+
+\hypertarget{invited-workshops}{%
+\subsection{Invited Workshops}\label{invited-workshops}}
+
+SREE Workshop: Intervention Fidelity -Models, Methods, and Applications,
+Fall 2014
+
+\hypertarget{trainings-and-conferences-attended}{%
+\subsection{Trainings and Conferences
+Attended}\label{trainings-and-conferences-attended}}
+
+Intensive Longitudinal Methods, Statistical Horizons, October 23-24,
+2015
+
+Mediation, Moderation, and Conditional Process Analysis, Andrew F.
+Hayes, University of Virginia, June 4-5, 2015
+
+Institute of Education Sciences Summer Research Training Institute:
+Cluster-Randomized Trials, Northwestern University, July 15-26, 2012
+
+UseR! 2012, Vanderbilt University, June 11-15, 2012
+
+Functional MRI in Clinical Research and Practice: Measurement, Design
+and Analysis, Carnegie Mellon University/University of Pittsburgh, June
+13-17, 2011
+
+Missing Data Workshop, University of Virginia, June 1-7, 2011
+
+Society for Research in Child Development Conference, Montreal, March
+31-April 3, 2011
+
+Multi-Modal Neuroimaging Training, Martinos Medical Center, Boston,
+December 13-17, 2010
+
+Conference on Human Development, New York, April 9-12, 2010
+
+\hypertarget{software-proficiency}{%
+\subsection{Software Proficiency}\label{software-proficiency}}
+
+R, Mplus, \LaTeX, SPSS
+
+\hypertarget{professional-experience}{%
+\section{Professional Experience}\label{professional-experience}}
+
+Research Scientist, \emph{University of Virginia}, Charlottesville, VA,
+2013-2016.
+
+Postdoctoral Fellow, \emph{University of Virgina}, Charlottesville, VA,
+2010-2013.
+
+Team Building Coordinator, \emph{Charlottesville's Challenge Course},
+Charlottesville, VA, 2002 - 2004.
+
+Counselor/Intervention Specialist, \emph{Hoover City School System},
+Hoover, AL, 1999 - 2002.
+
+Bridges Drug Education Program Instructor, \emph{Hoover City School
+System}, Hoover, AL, 1999 - 2002.
+
+Independent Contract Work, \emph{Central Alabama}, 1997 - 2002.
+
+Adventure Based Counselor/Case Manager, \emph{Bradford Health Services},
+Pelham, AL, 1995 - 1997.
+
+Conflict Resolution Counselor, \emph{Jemison Boy's Ranch}, Jemison, AL,
+1993 - 1995.
+
+\end{document}
