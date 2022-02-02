@@ -1,6 +1,6 @@
 ---
 name: William (Hank) Murrah
-position: "Assistant Professor"
+position: "Associate Professor"
 address: "College of Education, Auburn University"
 # profilepic: profileSmall.jpg
 phone: 334-844-3806
@@ -28,12 +28,12 @@ library(vitae)
   
 # Current Position
 
-* **Assistant Professor**, *Educational Research, Measurement, and Assessment Program, Educational Foundations, Leadership, & Technology*, **Auburn University** , 2016-present.
+* **Associate Professor**, *Educational Research, Measurement, and Assessment Program, Educational Foundations, Leadership, & Technology*, **Auburn University** , 2021-present.
 
 # Research
 
 ```{r publications}
-bibliography_entries("published.bib", "Publications")
+#bibliography_entries("published.bib", "Publications")
 ```
  
 
@@ -41,6 +41,21 @@ bibliography_entries("published.bib", "Publications")
 \begin{comment}
 ## Publications
  \* indicates collaboration with students.
+
+Frugé, A.D., Smith, K.S., Riviere, A.J., Tenpenny-Chigas, R., Demark-Wahnefried, W., Arthur, A.E., **Murrah, W.M.**, Pol, W.J., Jasper, S.L., Morrow, C.D., Arnold, R.D. Braxton-Lloyd, K. (2021), A Dietary Intervention High in Green Leafy Vegetables Reduces Oxidative DNA Damage in Adults at Increased Risk of Colorectal Cancer: Biological Outcomes of the Randomized Controlled Meat and Three Greens (M3G) Feasibility Trial. *Nutrients*, 13(3), 1220.
+
+**Murrah, W. M.** (2020) Compound Bias Due to Measurement Error When Comparing Regression Coefficients, *Educational and Psychological Measurement*, 80(3).
+
+\*Wright, T. K., **Murrah, W. M.**, Zabala M. E. (2020). Knee Valgus vs. Knee Abduction Angle: Comparative Analysis of Medial Knee Collapse Definitions in Female Athletes, *Journal of Biomechanical Engineering*.
+
+Chesser, S., **Murrah, W. M.**, Forbes, S. A. (2020). Impact of Personality on Choice of Instructional Delivery and Students’ Performance, *American Journal of Distance Education*.
+
+Frugé, A.D., Smith, K.S., Riviere, A.J., Demark-Wahnefried, W., Arthur, A.E. **Murrah, W.M.**, Morrow, C.D. Arnold, R.D. Braxton-Lloyd, K. (2019) Primary outcomes of a randomized controlled crossover trial to explore the effects of a high chlorophyll dietary intervention to reduce colon cancer risk in adults: The Meat and Three Greens (M3G) Feasibility Trial,	*Nutrients*.
+
+\*Friesen, K. B. Barfield, J.W. **Murrah, W.M.**, Dugas, J.R. Andrews, J.R. and Oliver, G.D. (2019).The Association of Upper-Body Kinematics and Earned Run Average of National Collegiate Athletic Association Division I Softball Pitchers,	*Journal of Strength and Conditioning*.
+
+\*Brinkerhoff, S. A., **Murrah, W. M.** Hutchison, Z. Miller, M. Roper, J. A. (2019). 	Words matter: Instructions dictate "self-selected" walking speed in young adults.	*Gait & Posture*.
+
 
 Brock, L. L., **Murrah, W. M.**, Cottone, E. A., Mashburn, A. J., & Grissmer, D. W. (2017). An after-school intervention targeting executive function and visuospatial skills also improves classroom behavior. *International Journal of Behavioral Development*.  
 

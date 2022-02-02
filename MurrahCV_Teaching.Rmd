@@ -1,0 +1,229 @@
+---
+name: William (Hank) Murrah
+position: "Associate Professor"
+address: "College of Education, Auburn University"
+# profilepic: profileSmall.jpg
+phone: 334-844-3806
+www: statistical-thinking.com
+email: "wmm0017@auburn.edu"
+twitter: EdStat
+github: wmmurrah
+linkedin: wmmurrah
+headcolor: 333335 #E87722 # black = 000000
+date: "`r format(Sys.time(), '%B %Y')`"
+output: vitae::awesomecv
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+library(vitae)
+```
+
+# Education
+ 
+## Ph.D. Educational Psychology, University of Virginia, 2010.
+
+## M.Ed. Community and Agency Counseling, University of Montevallo, 1998.
+## B.S. Psychology,  University of Montevallo, 1993.
+  
+# Current Position
+
+* **Associate Professor**, *Educational Research, Measurement, and Assessment Program, Educational Foundations, Leadership, & Technology*, **Auburn University** , 2021-present.
+
+* **Assistant Professor**, *Educational Research, Measurement, and Assessment Program, Educational Foundations, Leadership, & Technology*, **Auburn University** , 2016-2021
+
+# Teaching
+
+**ERMA 7200 Basic Methods in Educational Research** Redesigned to include information on the replication crisis. Fall 2016 (2), Summer 2021.
+
+**ERMA 7300 Design and Analysis I** Redesigned course to include hands-on analytic activities using current research. Spring 2017 (2), Fall 2017 (2), Fall 2018, Fall 2019, Summer 2020, Fall 2020, Spring 2020, Summer 2020 (2).
+
+**ERMA 7310 Design and Analysis II** Redesigned course to include just-in-time teaching practices and to give students the option of using SPSS or R as their primary statistical software. Spring 2018 (2), Spring 2019, Summer 2019, Fall 2019, Spring 2020, Fall 2020.
+
+**ERMA 8320 Design and Analysis III** Redesigned course to include sections on missing data and multilevel modeling. Fall 2018.
+
+
+**ERMA 8240 Introduction to Structural Equation Modeling** Redesigned the course to use Mplus software. Spring 2019, Spring 2020, Spring 2021.
+ 
+**ERMA 7970 Introduction to Multilevel Modeling** Created a course in multilevel modeling emphasizing nested and longitudinal designs. Spring 2021.
+
+**ERMA 8350 Advanced Measurement Theory**. Redesigned coure to include modern test theory using R to provide students with cutting-edge methods for test development. Fall 2021.
+
+## Other Contributions to Teaching 
+
+**Murrah, W. M.** R User Group.Led  weekly R Users workshop. Fall 2021.
+
+**Murrah, W. M.** R User Group.Led  weekly R Users workshop. Summer 2021.
+
+**Murrah, W. M.** R User Group.Led  weekly R Users workshop. Spring 2021.
+
+Pendola, A., & **Murrah, W. M.** *The Workflow of Data Analysis* QMER Works-in-Progress, Spring 2020.
+
+**Murrah, W. M.** & Pendola, A., *Reading data into SPSS* QMER Works-in-Progress, Spring 2020.
+
+**Murrah, W. M.** & Pendola, A. *Managing data in SPSS* QMER Works-in-Progress, Spring 2020.
+
+Pendola, A. & **Murrah, W. M.** *Preparing for AERA* QMER Works-in-Progress, Summer 2019.
+
+**Murrah, W. M.** & Pendola, A., *Introduction to QMER* QMER Works-in-Progress, Spring 2019.
+
+Hulleman, C. S., **Murrah, W. M.**, & Kosovich, J. J., *Intervention Fidelity - Models, Methods, and Applications*, Invited workshop at Society for Research on Educational Effectiveness, Fall 2014.
+
+**Murrah, W. M.**, Confirmatory Factor Analysis and Scale Reliability, Statistical Programming Workshop, University of Virginia, January, 2016.
+
+**Murrah, W. M.**, Introduction to Multiple Imputation with the `mice` package, Statistical Programming Workshop, University of Virginia, October, 2015.
+
+**Murrah, W. M.**, Introduction to Multilevel Modeling, Statistical Programming Workshop, FOCAL Lab, University of Virginia, July, 2015. 
+
+**Murrah, W. M.**, Introduction to Statistical Programming with R, Statistical Programming Workshop, University of Virginia, Spring, 2015.
+
+**Murrah, W. M.**, Introduction to Linear Models, University of Virginia, Curry Summer Undergraduate Research Program, Summer 2012.
+
+**Murrah, W. M.**, Introduction to Inferential Statistics, University of Virginia, Curry Summer Undergraduate Research Program, Summer 2011.
+
+Child Development, co-instructor, University of Virginia, Spring 2008.
+
+Child Development, teaching assistant, University of Virginia, 2006-2007.
+
+Child Development, co-instructor, Hampton Roads Center, University of Virginia, Spring 2005.
+
+## Grants Received Related to Teaching
+
+Auburn University National Alumni Council Grant *Educational Learning Community Improvement*. PI: Andrew Pendola. $1,617. Grant to support QMER Workshop development and implementation.
+
+
+# Research
+
+```{r publications}
+bibliography_entries("MurrahPublications.bib")
+```
+<!-- \begin{comment}  -->
+<!-- ## Publications -->
+<!--  \* indicates collaboration with students. -->
+
+
+<!-- Frugé, A.D., Smith, K.S., Riviere, A.J., Tenpenny-Chigas, R., Demark-Wahnefried, W., Arthur, A.E., **Murrah, W.M.**, Pol, W.J., Jasper, S.L., Morrow, C.D., Arnold, R.D. Braxton-Lloyd, K. (2021), A Dietary Intervention High in Green Leafy Vegetables Reduces Oxidative DNA Damage in Adults at Increased Risk of Colorectal Cancer: Biological Outcomes of the Randomized Controlled Meat and Three Greens (M3G) Feasibility Trial. Nutrients, 13(3), 1220. -->
+
+<!-- Frugé, A.D., Smith, K.S., Riviere, A.J., Tenpenny-Chigas, R., Demark-Wahnefried, W., Arthur, A.E., **Murrah, W.M.**, Pol, W.J., Jasper, S.L., Morrow, C.D., Arnold, R.D. Braxton-Lloyd, K. (2021), A Dietary Intervention High in Green Leafy Vegetables Reduces Oxidative DNA Damage in Adults at Increased Risk of Colorectal Cancer: Biological Outcomes of the Randomized Controlled Meat and Three Greens (M3G) Feasibility Trial. *Nutrients*, 13(3), 1220. -->
+
+<!-- **Murrah, W. M.** (2020) Compound Bias Due to Measurement Error When Comparing Regression Coefficients, *Educational and Psychological Measurement*, 80(3). -->
+
+<!-- \*Wright, T. K., **Murrah, W. M.**, Zabala M. E. (2020). Knee Valgus vs. Knee Abduction Angle: Comparative Analysis of Medial Knee Collapse Definitions in Female Athletes, *Journal of Biomechanical Engineering*. -->
+
+<!-- Chesser, S., **Murrah, W. M.**, Forbes, S. A. (2020). Impact of Personality on Choice of Instructional Delivery and Students’ Performance, *American Journal of Distance Education*. -->
+
+<!-- Frugé, A.D., Smith, K.S., Riviere, A.J., Demark-Wahnefried, W., Arthur, A.E. **Murrah, W.M.**, Morrow, C.D. Arnold, R.D. Braxton-Lloyd, K. (2019) Primary outcomes of a randomized controlled crossover trial to explore the effects of a high chlorophyll dietary intervention to reduce colon cancer risk in adults: The Meat and Three Greens (M3G) Feasibility Trial,	*Nutrients*. -->
+
+<!-- \*Friesen, K. B. Barfield, J.W. **Murrah, W.M.**, Dugas, J.R. Andrews, J.R. and Oliver, G.D. (2019).The Association of Upper-Body Kinematics and Earned Run Average of National Collegiate Athletic Association Division I Softball Pitchers,	*Journal of Strength and Conditioning*. -->
+
+<!-- \*Brinkerhoff, S. A., **Murrah, W. M.** Hutchison, Z. Miller, M. Roper, J. A. (2019). 	Words matter: Instructions dictate "self-selected" walking speed in young adults.	*Gait & Posture*. -->
+
+
+<!-- Brock, L. L., **Murrah, W. M.**, Cottone, E. A., Mashburn, A. J., & Grissmer, D. W. (2017). An after-school intervention targeting executive function and visuospatial skills also improves classroom behavior. *International Journal of Behavioral Development*.   -->
+
+<!-- **Murrah, W. M.**, Kosovich, J. J., & Hulleman, C. S. (2016). Measuring Fidelity in Educational Settings. In Roberts, G., Vaughn, S., Beretvas, T., & Wong, V. (Eds.), *Implementation Fidelity in Randomized Educational Trials: An Applied Perspective.* Routledge. -->
+
+<!-- Cameron, C. E., Cottone, E. A., **Murrah, W. M.** & Grissmer, D. W. (2016). How are motor skills linked to children's school performance and academic achievement? *Child Development Perspectives, 10(2)*, 93-98. -->
+
+<!-- \*Kim, H., Schmidt, K. M., **Murrah, W. M.**, Cameron, C. E., & Grissmer, D. (2015). A Rasch Analysis of the KeyMath-3 Diagnostic Assessment. *Journal of Applied Measurement*, 16(4), 365-378. -->
+
+<!-- \*Kim, H., **Murrah, W. M.**, Cameron, C. E., Brock, L. L., Cottone, E. A., & Grissmer, D. (2014). Psychomotor properties of the Teacher-Reported Motor Skills Rating Scale. *Journal of Psychoeducational Assessment*, first published on October 6, 2014 as doi:10.1177/0734282914551536. -->
+
+<!-- Ponitz, C. C., Brock, L. L., **Murrah, W. M.**, Bell, L., Worzalla, S., Grissmer, D. W., & Morrison, F. J. (2012). Fine motor skills and executive function both contribute to kindergarten achievement. *Child Development*, 83(4), 1229-1244. -->
+
+<!-- Grissmer, D., Grimm, K.J., Aiyer, S.M., **Murrah, W. M.**, & Steele, J.S. (2010). Fine motor skills and early comprehension of the world: Two new school readiness indicators. *Developmental Psychology*, 46(5), 1008-1017. -->
+<!-- \end{comment} -->
+
+
+<!-- ## Presentations -->
+
+<!-- Francis, M., Tibbetts, Y., Murrah, W. M., Phelps, J., Silverman, D., Moran, M., Kosovich, J., & Hulleman, C. (2018) *Using a utility-value intervention to remove barriers in gateway math courses.* Poster presented at the 2018 Understanding Interventions Conference, Baltimore, MD. -->
+
+<!-- Murrah, W. M., Ruzek, E. A., & Grissmer, D. W. (2017) *Children's fine motor skills are important for school readiness and science achievement.* Symposium presented at the Society for Research in Child Development 2017 Biennial Meeting, Austin, TX.  -->
+
+<!-- Murrah, W. M.(2015) *The Relative Importance of School Readiness Skills as Predictors of First, Third, and Eighth Grade Achievement*. Poster presented at the Society for Research in Child Development Biennial Meeting, Philadelphia, PA. -->
+
+<!-- Murrah, W. M., Grissmer, D., Ko, Michelle, Player, D., Cabell, S., O'Brien, R. H.(2015). *Early achievement impacts of Core Knowledge charter schools on early comprehension and general knowledge through 1st grade.* Presented at Association for Education Finance and Policy Annual Conference. Washington, DC. -->
+
+<!-- Murrah. W. M. (2013) *The evolution and evaluation of a play-based, after-school curriculum that improves executive function, visuospatial and math skills for disadvantaged children.* Organizer of seminar and presenter at the Society for Research on Educational Effectiveness Fall Conference. Washington, DC. -->
+
+<!-- Murrah. W. M. (2011). *Explaining the association between fine motor skills and math achievement.* Seminar presented to the faculty and students of the developmental psychology department at the University of Virginia. Charlottesville, VA -->
+
+<!-- Murrah, W. M. (2011). *Fine motor skills predict later math, science, and reading achievement*. Symposium presented at the Society for Research in Child Development 2011 Biennial Meeting, Montreal, Quebec. -->
+
+<!-- Murrah, W. M. (2010). *Fine motor skills as a predictor of later math, reading, and science elementary achievement.* Paper presented to the Conference on Human Development, 2010 Annual Meeting, New York City, NY. -->
+
+<!-- Murrah, W. M. (2009). *Which developmental skills predict later math, reading, and science elementary school achievement?* Paper presented to National Science Foundation Advisory Board, 2009. Charlottesville, VA. -->
+
+
+# Grant Funding
+
+## Proposed Funding
+
+Advancing Informal STEM Learning: Facilitating STEM Learning Pathways for Students Through a Systematic STEM Environment (SysSTEM-E). PI: Christine Schnittka. *National Science Foundation*. $1,750,000. Projected Period: 2019-2024. Role: Co-PI.
+
+Tools for Leaders: Advancing Team Effectiveness Through Leader Development. PI: Joellen Sefton. *Department of Defense*. $1,086,000. Projected Period: 2019-2022. Role: Co-PI.
+
+Performance Enhancement through Training Development: Implementation of Cognitive Task Analysis. PI: Joellen Sefton. *Department of Defense*. $635,000. Projected Period: 2019-2022. Role: Co-PI.
+
+How the Motor System Reflects Impulsivity and Inhibitory Control in Healthy Young Adults. PI: Kristina Neely. *Auburn University Intramural Grants Program*. $20,600. Role: Co-PI.
+
+  
+## Previous Funding
+
+Removing Barriers to Success in Mathematics: An Integrative Expectancy-Value Intervention. PI: Chris Hulleman. *National Science Foundation*. Approximately $1,500,000. Project Period: 9/01/2015 - 8/31/2019. Role: Senior Personnel/Methodologist.
+
+Developmental Skills Linked to Math and Science Achievement: An Interdisciplinary Data-Intensive Approach to Identification and Improvement through Experimental Intervention. *National Science Foundation*. Approximately $2,500,000. Project Period: 9/1/2013 - 8/31/2018. Role: Research Scientist/Methodologist.
+
+Evaluation of Core Knowledge charter schools in Colorado. *Institute of Education Sciences*. Approximately $4,900,000. Project Period: 07/01/2009 - 12/31/2015. Role: Research Scientist/Methodologist.
+
+Efficacy of the WINGS after-school social and emotional learning (SEL) program. *Institute of Education Sciences*. Approximately $2,700,000. Project Period: 09/01/2011 - 8/31/2015. Role: Research Scientist/Methodologist. 
+
+Math and science achievement gaps for minority and disadvantaged students: Developmental and environmental influences from nine months to 8th grade, *National Science Foundation*, 2008 - 2012 ($952,710) Role: Co-Investigator/Methodologist.
+
+Improving fine motor skill development to promote mathematical ability, *Institute of Education Sciences*, 2009 - 2012 ($462,765) Role: Primary Data Analyst
+
+New kindergarten readiness indicators for math and science: Next steps in validation, communication and projecting policy impacts, *National Science Foundation*, 2010-2012 ($297,653) Role: Co-investigator/Methodologist. 
+
+## Professional Activities
+
+
+Editorial Board for *Interdisciplinary Education and Psychology*.
+
+Reviewer for *Child Development*
+
+Reviewer for *Journal of Abnormal Child Psychology* 
+
+Reviewer for *Early Childhood Research Quarterly* 
+
+Member, *American Statistical Association *
+
+Member, *Society for Research in Child Development*
+
+Member, *American Educational Research Association*
+
+## Invited Workshops
+
+SREE Workshop: Intervention Fidelity -Models, Methods, and Applications, Fall 2014
+
+
+## Trainings and Conferences Attended
+
+Intensive Longitudinal Methods, Statistical Horizons, October 23-24, 2015
+
+Mediation, Moderation, and Conditional Process Analysis, Andrew F. Hayes, University of Virginia, June 4-5, 2015  
+
+Institute of Education Sciences Summer Research Training Institute: Cluster-Randomized Trials, Northwestern University, July 15-26, 2012
+
+UseR! 2012, Vanderbilt University, June 11-15, 2012
+
+Functional MRI in Clinical Research and Practice: Measurement, Design and Analysis, Carnegie Mellon University/University of Pittsburgh, June 13-17, 2011
+
+Missing Data Workshop, University of Virginia, June 1-7, 2011
+
+Society for Research in Child Development Conference, Montreal, March 31-April 3, 2011
+
+Multi-Modal Neuroimaging Training, Martinos Medical Center, Boston, December 13-17, 2010
+
+Conference on Human Development, New York, April 9-12, 2010
+
