@@ -1,5 +1,6 @@
 ---
-name: William (Hank) Murrah
+name: William (Hank) 
+surname: Murrah
 position: "Associate Professor"
 address: "College of Education, Auburn University"
 # profilepic: profileSmall.jpg
@@ -30,21 +31,33 @@ library(vitae)
 
 * **Associate Professor**, *Educational Research, Measurement, and Assessment Program, Educational Foundations, Leadership, & Technology*, **Auburn University** , 2021-present.
 
+* **Assistant Professor**, *Educational Research, Measurement, and Assessment Program, Educational Foundations, Leadership, & Technology*, **Auburn University** , 2016-2021.
+
+**Research Scientist**, *University of Virginia*, Charlottesville, VA, 2013-2016.
+
+**Postdoctoral Fellow**, *University of Virgina*, Charlottesville, VA, 2010-2013.
+
 # Research
 
-```{r publications}
-#bibliography_entries("published.bib", "Publications")
-```
- 
 
-
-\begin{comment}
 ## Publications
  \* indicates collaboration with students.
 
-Frugé, A.D., Smith, K.S., Riviere, A.J., Tenpenny-Chigas, R., Demark-Wahnefried, W., Arthur, A.E., **Murrah, W.M.**, Pol, W.J., Jasper, S.L., Morrow, C.D., Arnold, R.D. Braxton-Lloyd, K. (2021), A Dietary Intervention High in Green Leafy Vegetables Reduces Oxidative DNA Damage in Adults at Increased Risk of Colorectal Cancer: Biological Outcomes of the Randomized Controlled Meat and Three Greens (M3G) Feasibility Trial. *Nutrients*, 13(3), 1220.
+\*Lyons, K.D., Parks, A.G., Dadematthews, O.D., Zandieh, N.L.,  McHenry P.A., Games K.E., Goodlett M.D., **Murrah W.M.**, Roper J.A., Sefton, J.M. (2023). Core and Whole-Body Vibration Exercise Improve Military Foot March Performance in Novice Trainees: A Randomized Controlled Trial. *Military Medicine* 188 (1-2), e254-e259.
 
-**Murrah, W. M.** (2020) Compound Bias Due to Measurement Error When Comparing Regression Coefficients, *Educational and Psychological Measurement*, 80(3).
+\*Brinkerhoff, S.A., Mathew, G.M., **Murrah, W.M.**, Chang, A.M., Roper, J.A., Neely, K.A. (2022). Sleep restriction impairs visually and memory-guided force control. *PloS One, 17 (9), e0274121.  https://doi.org/10.1371/journal.pone.0274121 
+
+\*Larsen, J., Roper, J., **Murrah, W.M.**, & Zabala, M. (2022). Cognitive dual-task alters Local Dynamic Stability of lower extremity during common movements. *Journal of Bioimechanics*, 137, 111077.
+
+\*Bacelar, M.F.B., Parma, J.O. **Murrah, W.M.**, & Miller, M.W. (2022). Meta-analyzing enhanced expectancies on motor learning: Positive effects but methodological concerns. *International Review of Sports and Exercise Psychology*, DOI: 10.1080/1750984X.2022.2042839.
+
+\*Parks, A.G., **Murrah, W.M.**, Weimer, W.H., McHenry, P.A., Biogham, D., Giordano, K., & Sefton, J.M. (2022). Impact of two types of fitness programs on soldier physical fitness. *International Journal of Exercise Science*, 15(4) 1326-1346.
+
+\*Lyons, K.D., Parks, A.G., Dadematthews, O., Zandieh, N., McHenry, P., Games, K.e., Goodlett, M.D., **Murrah, W.M.**, Roper, J., & Sefton, J.M. (2021). Core and whole body vibration exercise influences muscle sensitivity and posture during a military foot march. *International Journal of Environmental Research and Public Health*, 18, 4966.
+
+Frugé, A.D., Smith, K.S., Riviere, A.J., Tenpenny-Chigas, R., Demark-Wahnefried, W., Arthur, A.E., **Murrah, W.M.**, Pol, W.J., Jasper, S.L., Morrow, C.D., Arnold, R.D. Braxton-Lloyd, K. (2021). A Dietary Intervention High in Green Leafy Vegetables Reduces Oxidative DNA Damage in Adults at Increased Risk of Colorectal Cancer: Biological Outcomes of the Randomized Controlled Meat and Three Greens (M3G) Feasibility Trial. *Nutrients*, 13(3), 1220.
+
+**Murrah, W. M.** (2020). Compound Bias Due to Measurement Error When Comparing Regression Coefficients, *Educational and Psychological Measurement*, 80(3).
 
 \*Wright, T. K., **Murrah, W. M.**, Zabala M. E. (2020). Knee Valgus vs. Knee Abduction Angle: Comparative Analysis of Medial Knee Collapse Definitions in Female Athletes, *Journal of Biomechanical Engineering*.
 
@@ -56,8 +69,7 @@ Frugé, A.D., Smith, K.S., Riviere, A.J., Demark-Wahnefried, W., Arthur, A.E. **
 
 \*Brinkerhoff, S. A., **Murrah, W. M.** Hutchison, Z. Miller, M. Roper, J. A. (2019). 	Words matter: Instructions dictate "self-selected" walking speed in young adults.	*Gait & Posture*.
 
-
-Brock, L. L., **Murrah, W. M.**, Cottone, E. A., Mashburn, A. J., & Grissmer, D. W. (2017). An after-school intervention targeting executive function and visuospatial skills also improves classroom behavior. *International Journal of Behavioral Development*.  
+Brock, L. L., **Murrah, W. M.**, Cottone, E. A., Mashburn, A. J., & Grissmer, D. W. (2018). An after-school intervention targeting executive function and visuospatial skills also improves classroom behavior. *International Journal of Behavioral Development*.  
 
 **Murrah, W. M.**, Kosovich, J. J., & Hulleman, C. S. (2016). Measuring Fidelity in Educational Settings. In Roberts, G., Vaughn, S., Beretvas, T., & Wong, V. (Eds.), *Implementation Fidelity in Randomized Educational Trials: An Applied Perspective.* Routledge.
 
@@ -71,13 +83,15 @@ Ponitz, C. C., Brock, L. L., **Murrah, W. M.**, Bell, L., Worzalla, S., Grissmer
 
 Grissmer, D., Grimm, K.J., Aiyer, S.M., **Murrah, W. M.**, & Steele, J.S. (2010). Fine motor skills and early comprehension of the world: Two new school readiness indicators. *Developmental Psychology*, 46(5), 1008-1017.
 
+\begin{comment}
+
 ## Publications under Review
 \* indicates collaboration with students.
 
 
 
 \*Friesen, K. B., Barfield, J. W., Murrah, W. M., Dugas, J. R., Andrews, J. R., & Oliver, G. D. (under review). Upper body kinematics that best explain National Collegiate Athletic Association (NCAA) division I softball pitcher's ERA. *Journal of Sports Sciences*.
-\end{comment}
+
 
 ## Publications in Preparation
 \* indicates collaboration with students.
@@ -87,7 +101,15 @@ Grissmer, D., Grimm, K.J., Aiyer, S.M., **Murrah, W. M.**, & Steele, J.S. (2010)
 Hulleman, C. S., Tibbetts, Y., **Murrah, W. M.** (in preparation). Impacts of a utility value intervention among community college students in front-door math courses.
 
 Hulleman, C. S., Lee, M.,**Murrah, W. M.** et al. (in preparation). From politics to hurricanes: Lessons learned from a research-practice partnership focused on improving motivation in community college math. 
+\end{comment}
+
 ## Presentations
+
+\*Neely, K., Zhang, Z., Blanton, R., Gladson,  M., Schmid, D. Heavlin, H., Brown, S., Brown, S., Pangelinan, M.,  Murrah, W. M. (2022). *Balance Control in Midlife Adults With and Without ADHD.* Presented at North American Society for the Psychology of Sport and Physical Activity. 
+
+\*Neely, K., Zhang, Z., & **Murrah, W. M.** (2021) *Variability in Motor Control: Multilevel Modeling Reveals Meaningful Differences in Force Output.* Presented at North American Society for the Psychology of Sport and Physical Activity Virtual Conference.
+
+Schmid, D., Blanton, R., White, T., Murrah, W. M., & Kneely, K. (2021). *Withdrawn Behavior Influences Engagement in Vigorous and Moderate Physical Activity*. Presented at the North American Society for the Psychology of Sport and Physical Activity Virtual Conference.
 
 Francis, M., Tibbetts, Y., Murrah, W. M., Phelps, J., Silverman, D., Moran, M., Kosovich, J., & Hulleman, C. (2018) *Using a utility-value intervention to remove barriers in gateway math courses.* Poster presented at the 2018 Understanding Interventions Conference, Baltimore, MD.
 
@@ -112,19 +134,13 @@ Murrah, W. M. (2009). *Which developmental skills predict later math, reading, a
 
 ## Current Funding
 
+How the Motor System Reflects Impulsivity and Inhibitory Control in Healthy Young Adults. PI: Kristina Neely. *Auburn University Intramural Grants Program*. $20,600. Role: Co-PI.
 
   
 ## Proposed Funding
 
-Advancing Informal STEM Learning: Facilitating STEM Learning Pathways for Students Through a Systematic STEM Environment (SysSTEM-E). PI: Christine Schnittka. *National Science Foundation*. $1,750,000. Projected Period: 2019-2024. Role: Co-PI.
+Pendola, A., (PI) & Murrah, W. M. (CO-PI). (Under Review) At-Promise Learning Communities for STEM Excellence. *Researcher Support Program*, Auburn University. $41,341
 
-Tools for Leaders: Advancing Team Effectiveness Through Leader Development. PI: Joellen Sefton. *Department of Defense*. $1,086,000. Projected Period: 2019-2022. Role: Co-PI.
-
-Performance Enhancement through Training Development: Implementation of Cognitive Task Analysis. PI: Joellen Sefton. *Department of Defense*. $635,000. Projected Period: 2019-2022. Role: Co-PI.
-
-How the Motor System Reflects Impulsivity and Inhibitory Control in Healthy Young Adults. PI: Kristina Neely. *Auburn University Intramural Grants Program*. $20,600. Role: Co-PI.
-
-  
 ## Previous Funding
 
 Removing Barriers to Success in Mathematics: An Integrative Expectancy-Value Intervention. PI: Chris Hulleman. *National Science Foundation*. Approximately $1,500,000. Project Period: 9/01/2015 - 8/31/2019. Role: Senior Personnel/Methodologist.
@@ -226,11 +242,7 @@ Conference on Human Development, New York, April 9-12, 2010
 
 R, Mplus, \LaTeX, SPSS, Python, Stan, JAGS
 
-# Professional Experience
-
-Research Scientist, *University of Virginia*, Charlottesville, VA, 2013-2016.
-
-Postdoctoral Fellow, *University of Virgina*, Charlottesville, VA, 2010-2013.
+# Other  Professional Experience
 
 Team Building Coordinator, *Charlottesville's Challenge Course*, Charlottesville, VA, 2002 - 2004.
 

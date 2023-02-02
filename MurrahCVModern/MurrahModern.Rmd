@@ -1,0 +1,61 @@
+---
+name: William (Hank) 
+surname: Murrah
+position: "Associate Professor"
+address: "College of Education, Auburn University"
+# profilepic: profileSmall.jpg
+phone: 334-844-3806
+www: statistical-thinking.com
+email: "wmm0017@auburn.edu"
+twitter: EdStat
+github: wmmurrah
+linkedin: wmmurrah
+headcolor: 333335 #E87722 # black = 000000
+date: "`r format(Sys.time(), '%B %Y')`"
+output: vitae::moderncv
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+library(vitae)
+```
+
+
+# Education
+
+```{r}
+library(tibble)
+tribble(
+  ~ Degree, ~ Year, ~ Institution, ~ Where,
+  "Ph.D", "2010", "University of Virginia", "Charlottesville, VA",
+  "M.Ed.", "1998", "University of Montevallo", "Montevallo, AL",
+  "B.S.", "1993",  "University of Montevallo", "Montevallo, AL",
+) %>% 
+  detailed_entries(Degree, Year, Institution, Where)
+```
+
+# Nobel Prizes
+
+```{r}
+tribble(
+  ~Year, ~Type, ~Desc,
+  1903, "Physics", "Awarded for her work on radioactivity with Pierre Curie and Henri Becquerel",
+  1911, "Chemistry", "Awarded for the discovery of radium and polonium"
+) %>% 
+  brief_entries(
+    glue::glue("Nobel Prize in {Type}"),
+    Year, 
+    Desc
+  )
+```
+
+# Publications
+
+```{r}
+library(dplyr)
+
+
+bibliography_entries("MurrahPublications.bib") %>% 
+  arrange(desc(author$family), issued)
+```
+
