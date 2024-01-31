@@ -1,33 +1,45 @@
-@article{lyons2021core,
-  title={Core and Whole-Body Vibration Exercise Improve Military Foot March Performance in Novice Trainees: A Randomized Controlled Trial},
-  author={Lyons, Kaitlin D and Parks, Aaron G and Dadematthews, Oluwagbemiga D and Zandieh, Nilophar L and McHenry, Paige A and Games, Kenneth E and Goodlett, Michael D and Murrah, William M and Roper, Jaimie A and Sefton, JoEllen M},
-  journal={Military Medicine},
-  year={2021}
-}
-
-@Article{Lyons2021Corewholebody,
-  author    = {Lyons, Kaitlin D. and Parks, Aaron G. and Dadematthews, Oluwagbemiga and Zandieh, Nilophar and McHenry, Paige and Games, Kenneth E. and Goodlett, Michael D. and Murrah, William and Roper, Jaimie and Sefton, JoEllen M.},
-  journal   = {International Journal of Environmental Research and Public Health},
-  title     = {Core and whole body vibration exercise influences muscle sensitivity and posture during a military foot march},
-  year      = {2021},
-  month     = {may},
-  number    = {9},
-  pages     = {4966},
-  volume    = {18},
-  doi       = {10.3390/ijerph18094966},
-  file      = {:Files/2021/Lyons2021Corewholebody.pdf:PDF},
+@Article{Lyons2023Corewholebody,
+  author    = {Lyons, Kaitlin D. and Parks, Aaron G. and Dadematthews, Oluwagbemiga D. and Zandieh, Nilophar L. and McHenry, Paige A. and Games, Kenneth E. and Goodlett, Michael D. and Murrah, W. M. and Roper, Jaimie A. and Sefton, JoEllen M.},
+  journal   = {Military Medicine},
+  title     = {Core and whole-body vibration exercise improve military foot march performance in novice trainees: a randomized controlled trial},
+  year      = {2023},
+  month     = {},
+  number    = {1-2},
+  pages     = {e254--e259},
+  volume    = {188},
+  doi       = {10.1093/milmed/usab294},
   owner     = {wmmurrah},
-  publisher = {{MDPI} {AG}},
+  publisher = {Oxford University Press ({OUP})},
 }
 
-@Article{neely2021variability,
-  author       = {Neely, Kristina and Zhang, Zhaotong and Murrah, William},
-  title        = {Variability in Motor Control: Multilevel Modeling Reveals Meaningful Differences in Force Output},
-  year         = {2021},
-  pages        = {S41--S41},
-  volume       = {43},
-  booktitle    = {JOURNAL OF SPORT \& EXERCISE PSYCHOLOGY},
-  organization = {HUMAN KINETICS PUBL INC 1607 N MARKET ST, PO BOX 5076, CHAMPAIGN, IL 61820~…},
+@Article{Brinkerhoff2022Sleeprestrictionimpairs,
+  author    = {Brinkerhoff, Sarah A. and Mathew, Gina M. and Murrah, W. M. and Chang, Anne-Marie and Roper, Jaimie A. and Neely, Kristina A.},
+  journal   = {{PLOS} {ONE}},
+  title     = {Sleep restriction impairs visually and memory-guided force control},
+  year      = {2022},
+  month     = {},
+  number    = {9},
+  pages     = {e0274121},
+  volume    = {17},
+  doi       = {10.1371/journal.pone.0274121},
+  editor    = {Kenichi Shibuya},
+  file      = {:/Users/wmm0017/Dropbox/References/Files/2022/Brinkerhoff2022Sleeprestrictionimpairs.pdf:PDF},
+  owner     = {wmmurrah},
+  publisher = {Public Library of Science ({PLoS})},
+}
+
+@Article{Larson2022Cognitivedualtask,
+  author    = {Larson, Jacob and Roper, Jaimie and Murrah, W. M. and Zabala, Michael},
+  journal   = {Journal of Biomechanics},
+  title     = {Cognitive dual-task alters local dynamic stability of lower extremity during common movements},
+  year      = {2022},
+  month     = {},
+  pages     = {111077},
+  volume    = {137},
+  doi       = {10.1016/j.jbiomech.2022.111077},
+  file      = {:/Users/wmm0017/Dropbox/References/Files/2022/Larson2022Cognitivedualtask.pdf:PDF},
+  owner     = {wmmurrah},
+  publisher = {Elsevier {BV}},
 }
 
 @Article{bacelar2021meta,
@@ -40,8 +52,33 @@
   organization = {HUMAN KINETICS PUBL INC 1607 N MARKET ST, PO BOX 5076, CHAMPAIGN, IL 61820~…},
 }
 
+@article{parks2022impact,
+  title={Impact of Two Types of Fitness Programs on Soldier Physical Fitness},
+  author={Parks, Aaron G and Murrah, W. M. and Weimar, Wendi H and McHenry, Paige A and Bigham, Donald and Giordano, Kkevin and Sefton, JoEllen M},
+  journal={International Journal of Exercise Science},
+  volume={15},
+  number={4},
+  pages={1326--1346},
+  year={2022}
+}
+
+@Article{Lyons2021Corewholebody,
+  author    = {Lyons, Kaitlin D. and Parks, Aaron G. and Dadematthews, Oluwagbemiga and Zandieh, Nilophar and McHenry, Paige and Games, Kenneth E. and Goodlett, Michael D. and Murrah, W. M. and Roper, Jaimie and Sefton, JoEllen M.},
+  journal   = {International Journal of Environmental Research and Public Health},
+  title     = {Core and whole body vibration exercise influences muscle sensitivity and posture during a military foot march},
+  year      = {2021},
+  month     = {},
+  number    = {9},
+  pages     = {4966},
+  volume    = {18},
+  doi       = {10.3390/ijerph18094966},
+  file      = {:Files/2021/Lyons2021Corewholebody.pdf:PDF},
+  owner     = {wmmurrah},
+  publisher = {{MDPI} {AG}},
+}
+
 @Article{schmid2021withdrawn,
-  author       = {Schmid, Daphne and Blanton, Robert and White, Tatiana and Murrah, William and Kneely, Kristina},
+  author       = {Schmid, Daphne and Blanton, Robert and White, Tatiana and Murrah, W. M. and Kneely, Kristina},
   title        = {Withdrawn Behavior Influences Engagement in Vigorous and Moderate Physical Activity},
   year         = {2021},
   pages        = {S89--S89},
@@ -50,12 +87,22 @@
   organization = {Human Kinetics Publ Inc 1607 N Market St, Po Box 5076, Champaign, Il 61820~…},
 }
 
+@Article{neely2021variability,
+  author       = {Neely, Kristina and Zhang, Zhaotong and Murrah, W. M.},
+  title        = {Variability in Motor Control: Multilevel Modeling Reveals Meaningful Differences in Force Output},
+  year         = {2021},
+  pages        = {S41--S41},
+  volume       = {43},
+  booktitle    = {JOURNAL OF SPORT \& EXERCISE PSYCHOLOGY},
+  organization = {HUMAN KINETICS PUBL INC 1607 N MARKET ST, PO BOX 5076, CHAMPAIGN, IL 61820~…},
+}
+
 @Article{Fruge2021dietaryinterventionhigh,
-  author    = {Frug{\'{e}}, Andrew D. and Smith, Kristen S. and Riviere, Aaron J. and Tenpenny-Chigas, Rachel and Demark-Wahnefried, Wendy and Arthur, Anna E. and Murrah, William M. and van der Pol, William J. and Jasper, Shanese L. and Morrow, Casey D. and Arnold, Robert D. and Braxton-Lloyd, Kimberly},
+  author    = {Frug{\'{e}}, Andrew D. and Smith, Kristen S. and Riviere, Aaron J. and Tenpenny-Chigas, Rachel and Demark-Wahnefried, Wendy and Arthur, Anna E. and Murrah, W. M. and van der Pol, William J. and Jasper, Shanese L. and Morrow, Casey D. and Arnold, Robert D. and Braxton-Lloyd, Kimberly},
   journal   = {Nutrients},
   title     = {A dietary intervention high in green leafy vegetables reduces oxidative {DNA} damage in adults at increased risk of colorectal cancer: biological outcomes of the randomized controlled meat and three greens (m3g) feasibility trial},
   year      = {2021},
-  month     = {apr},
+  month     = {},
   number    = {4},
   pages     = {1220},
   volume    = {13},
@@ -66,7 +113,7 @@
 }
 
 @Article{oldfather2020knee,
-  author    = {Oldfather, Taylor and Zabala, Michael and Goodlett, Michael and Murrah, William Hank},
+  author    = {Oldfather, Taylor and Zabala, Michael and Goodlett, Michael and Murrah, W. M.},
   journal   = {Journal of Biomechanical Engineering},
   title     = {Knee Valgus versus Knee Abduction Angle: {{Comparative}} Analysis of Medial Knee Collapse Definitions in Female Athletes},
   year      = {2020},
@@ -78,7 +125,7 @@
 }
 
 @Article{chesser2020impact,
-  author  = {Chesser, Svetlana and Murrah, William M. and Forbes, Sean, A.},
+  author  = {Chesser, Svetlana and Murrah, W. M. and Forbes, Sean, A.},
   journal = {American Journal of Distance Education},
   title   = {Impact of Personality on Choice of Instructional Delivery and Students' Performance},
   year    = {2020},
@@ -87,7 +134,7 @@
 }
 
 @Article{murrah2020compound,
-  author       = {Murrah, William M.},
+  author       = {Murrah, W. M.},
   journal      = {Educational and Psychological Measurement},
   title        = {Compound Bias Due to Measurement Error When Comparing Regression Coefficients},
   year         = {2020},
@@ -100,29 +147,8 @@
   journaltitle = {Educational and Psychological Measurement,},
 }
 
-@Article{friesen2019association,
-  author    = {Friesen, K. B. and Barfield, J. W. and Murrah, W. M. and Dugas, J. R. and Andrews, J. R. and Oliver, G. D.},
-  journal   = {Journal of Strength and Conditioning},
-  title     = {The association of upper-body kinematics and earned run average of national collegiate athletic association division {{I}} softball pitchers},
-  year      = {2019},
-  month     = {jul},
-  volume    = {Publish Ahead of Print},
-  doi       = {10.1519/jsc.0000000000003287},
-  file      = {:Files/2019/friesen2019associationUpperBody.pdf:PDF},
-  publisher = {Ovid Technologies (Wolters Kluwer Health)},
-}
-
-@Article{fruge2019primary,
-  author  = {Frug{\'e}, AD and Smith, KS and Riviere, AJ and {Demark-Wahnefried}, W and Arthur, AE and Murrah, WM and Morrow, CD and Arnold, RD and {Braxton-Lloyd}, K},
-  journal = {Nutrients},
-  title   = {Primary Outcomes of a Randomized Controlled Crossover Trial to Explore the Effects of a High Chlorophyll Dietary Intervention to Reduce Colon Cancer Risk in Adults: {{The Meat}} and {{Three Greens}} ({{M3G}}) {{Feasibility Trial}}},
-  year    = {2019},
-  doi     = {10.3390/nu11102349},
-  file    = {:Files/2019/fruge2019primaryOutcomesM3g.pdf:PDF},
-}
-
 @Article{brinkerhoff2019words,
-  author    = {Brinkerhoff, Sarah A. and Murrah, William M. and Hutchison, Zach and Miller, Matthew and Roper, Jaimie A.},
+  author    = {Brinkerhoff, Sarah A. and Murrah, W. M. and Hutchison, Zach and Miller, Matthew and Roper, Jaimie A.},
   journal   = {Gait \& Posture},
   title     = {Words matter: {{Instructions}} dictate "self-selected" walking speed in young adults},
   year      = {2019},
@@ -131,8 +157,29 @@
   publisher = {{Elsevier}},
 }
 
+@Article{friesen2019association,
+  author    = {Friesen, K. B. and Barfield, J. W. and Murrah, W. M. and Dugas, J. R. and Andrews, J. R. and Oliver, G. D.},
+  journal   = {Journal of Strength and Conditioning},
+  title     = {The association of upper-body kinematics and earned run average of national collegiate athletic association division {{I}} softball pitchers},
+  year      = {2019},
+  month     = {},
+  volume    = {Publish Ahead of Print},
+  doi       = {10.1519/jsc.0000000000003287},
+  file      = {:Files/2019/friesen2019associationUpperBody.pdf:PDF},
+  publisher = {Ovid Technologies (Wolters Kluwer Health)},
+}
+
+@Article{fruge2019primary,
+  author  = {Frug{\'e}, AD and Smith, KS and Riviere, AJ and {Demark-Wahnefried}, W and Arthur, AE and Murrah, W. M. and Morrow, CD and Arnold, RD and {Braxton-Lloyd}, K},
+  journal = {Nutrients},
+  title   = {Primary Outcomes of a Randomized Controlled Crossover Trial to Explore the Effects of a High Chlorophyll Dietary Intervention to Reduce Colon Cancer Risk in Adults: {{The Meat}} and {{Three Greens}} ({{M3G}}) {{Feasibility Trial}}},
+  year    = {2019},
+  doi     = {10.3390/nu11102349},
+  file    = {:Files/2019/fruge2019primaryOutcomesM3g.pdf:PDF},
+}
+
 @Article{brock2018after,
-  author  = {Brock, Laura and Murrah, William M. and Cottone, Elizabeth A. and Mashburn, Andrew J. and Grissmer, David, W.},
+  author  = {Brock, Laura and Murrah, W. M. and Cottone, Elizabeth A. and Mashburn, Andrew J. and Grissmer, David, W.},
   journal = {International Journal of Behavioral Development},
   title   = {An After-School Intervention Targeting Executive Function and Visuospatial Skills Also Improves Classroom Behavior},
   year    = {2018},
@@ -140,8 +187,6 @@
   doi     = {10.1177/0165025417738057},
   file    = {:Files/2018/brock2018afterschool.pdf:PDF},
 }
-
-
 
 @Article{cameron2016motor,
   author  = {Cameron, C. E. and Cottone, E. A. and Murrah, W. M. and Grissmer, D. W.},
@@ -152,10 +197,8 @@
   file    = {:Files/2016/cameron2016howare.pdf:PDF},
 }
 
-
-
 @InBook{murrah2016framework,
-  author    = {Murrah, William M. and Kosovich, Jeff and Hulleman, C. S.},
+  author    = {Murrah, W. M. and Kosovich, Jeff and Hulleman, C. S.},
   chapter   = {A framework for incorporating intervention fidelity in educational evaluation studies},
   editor    = {Roberts, Greg and Vaughn, Sharon and Beretvas, S. Natasha and Wong, Vivian},
   pages     = {39--60},
@@ -169,7 +212,7 @@
 }
 
 @Article{kim2015rasch,
-  author         = {Kim, Helyn and Schmidt, Karen M and Murrah, William M and Cameron, Claire E and Grissmer, David},
+  author         = {Kim, Helyn and Schmidt, Karen M and Murrah, W. M. and Cameron, Claire E and Grissmer, David},
   journal        = {Journal of applied measurement},
   title          = {A Rasch Analysis of the {{KeyMath}}-3 Diagnostic Assessment},
   year           = {2015},
@@ -181,13 +224,13 @@
   url            = {https://pubmed.ncbi.nlm.nih.gov/26771566/},
 }
 
-@Article{kim2014PsychometricPropertiesTeacherReported,
+@Article{kim2015PsychometricPropertiesTeacherReported,
   author    = {Kim, H. and Murrah, W. M. and Cameron, C. E. and Brock, L. L. and Cottone, E. A. and Grissmer, D.},
   journal   = {Journal of Psychoeducational Assessment},
   title     = {Psychometric {{Properties}} of the {{Teacher}}-{{Reported Motor Skills Rating Scale}}},
   year      = {2015},
   issn      = {0734-2829, 1557-5144},
-  month     = oct,
+  month     = ,
   number    = {7},
   pages     = {640--651},
   volume    = {33},
@@ -199,7 +242,7 @@
 }
 
 @Article{cameron2012FineMotorSkills,
-  author    = {Cameron, Claire E. and Brock, Laura L. and Murrah, William M. and Bell, Lindsay H. and Worzalla, Samantha L. and Grissmer, David and Morrison, Frederick J.},
+  author    = {Cameron, Claire E. and Brock, Laura L. and Murrah, W. M. and Bell, Lindsay H. and Worzalla, Samantha L. and Grissmer, David and Morrison, Frederick J.},
   journal   = {Child Development},
   title     = {Fine {{Motor Skills}} and {{Executive Function Both Contribute}} to {{Kindergarten Achievement}}},
   year      = {2012},
@@ -217,7 +260,7 @@
 }
 
 @Article{grissmer2010fine,
-  author    = {Grissmer, David and Grimm, Kevin J and Aiyer, Sophie M and Murrah, William M and Steele, Joel S},
+  author    = {Grissmer, David and Grimm, Kevin J and Aiyer, Sophie M and Murrah, W. M and Steele, Joel S},
   journal   = {Developmental psychology},
   title     = {Fine Motor Skills and Early Comprehension of the World: {{Two}} New School Readiness Indicators.},
   year      = {2010},
@@ -230,7 +273,7 @@
 }
 
 @PhdThesis{murrahComparingSelfRegulatoryEarly2010a,
-  author    = {Murrah, W.M.},
+  author    = {Murrah, W. M.},
   title     = {Comparing {{Self}}-{{Regulatory}} and {{Early Academic Skills}} as {{Predictors}} of {{Later Math}}, {{Reading}}, and {{Science Elementary School Achievement}}},
   year      = {2010},
   file      = {:Files/2010/murrah2010comparingSelfregulatoryskills.pdf:PDF},
@@ -239,36 +282,6 @@
   series    = {A},
   url       = {https://eric.ed.gov/?id=ED522253},
   volume    = {72-01},
-}
-
-@Article{Brinkerhoff2022Sleeprestrictionimpairs,
-  author    = {Brinkerhoff, Sarah A. and Mathew, Gina M. and Murrah, William M. and Chang, Anne-Marie and Roper, Jaimie A. and Neely, Kristina A.},
-  journal   = {{PLOS} {ONE}},
-  title     = {Sleep restriction impairs visually and memory-guided force control},
-  year      = {2022},
-  month     = {sep},
-  number    = {9},
-  pages     = {e0274121},
-  volume    = {17},
-  doi       = {10.1371/journal.pone.0274121},
-  editor    = {Kenichi Shibuya},
-  file      = {:/Users/wmm0017/Dropbox/References/Files/2022/Brinkerhoff2022Sleeprestrictionimpairs.pdf:PDF},
-  owner     = {wmmurrah},
-  publisher = {Public Library of Science ({PLoS})},
-}
-
-@Article{Larson2022Cognitivedualtask,
-  author    = {Larson, Jacob and Roper, Jaimie and Murrah, William and Zabala, Michael},
-  journal   = {Journal of Biomechanics},
-  title     = {Cognitive dual-task alters local dynamic stability of lower extremity during common movements},
-  year      = {2022},
-  month     = {may},
-  pages     = {111077},
-  volume    = {137},
-  doi       = {10.1016/j.jbiomech.2022.111077},
-  file      = {:/Users/wmm0017/Dropbox/References/Files/2022/Larson2022Cognitivedualtask.pdf:PDF},
-  owner     = {wmmurrah},
-  publisher = {Elsevier {BV}},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}

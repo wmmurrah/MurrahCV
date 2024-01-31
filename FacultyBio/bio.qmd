@@ -1,0 +1,15 @@
+---
+title: "Faculty Bio"
+format: html
+---
+
+## Short Bio
+
+Dr. William (Hank) Murrah is an associate professor of research methods in the Department of Educational Foundations, Leadership, and Technology. His research focuses on identifying early skills that children need to be successful in school, and how these skills develop. His work often uses large-scale longitudinal data to understand skill development and educational disparities.
+
+Dr. Murrah teaching introductory as well as advanced research methods courses including, Structural Equation Modeling, Advanced Psychometrics, and Multilevel Modeling.
+
+## Professional Experience
+
+Dr. Murrah received his B.S in Psychology and a Master's degree in Community and Agency Counseling, and a Ph.D. in Educational Psychology with a specialization in cogntive development and research methods.
+
