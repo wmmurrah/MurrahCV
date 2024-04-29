@@ -29,9 +29,11 @@ library(vitae)
   
 # Current Position
 
-* **Associate Professor**, *Educational Research, Measurement, and Assessment Program, Educational Foundations, Leadership, & Technology*, **Auburn University** , 2021-present.
+**Department Head**, *Department of Educational Foundations, Leadership, and Technology*, College of Education, **Auburn University**, 2023-present.
 
-* **Assistant Professor**, *Educational Research, Measurement, and Assessment Program, Educational Foundations, Leadership, & Technology*, **Auburn University** , 2016-2021.
+**Associate Professor**, *Educational Research, Measurement, and Assessment Program, Educational Foundations, Leadership, & Technology*, **Auburn University** , 2021-present.
+
+**Assistant Professor**, *Educational Research, Measurement, and Assessment Program, Educational Foundations, Leadership, & Technology*, **Auburn University** , 2016-2021.
 
 **Research Scientist**, *University of Virginia*, Charlottesville, VA, 2013-2016.
 
@@ -42,6 +44,18 @@ library(vitae)
 
 ## Publications
  \* indicates collaboration with students.
+ 
+ \* Monaghan, P. G., **Murrah, W. M.**, Walker, H. C., Neely, K. A., & Roper, J. A. (2024). Evaluating postural transition movement performance in individuals with essential tremor via the instrumented timed up and go. Sensors, 24(7), 2216. https://doi.org/10.3390/s24072216.
+ 
+ Giordano, K. A., Barrack, A. J., **Murrah, W. M.**, Karduna, A. R., Michener, L. A., & Wasserberger, K. W. (2024). Usage and acceptability of data normalization in baseball pitching. Sports Biomechanics, 1–12. https://doi.org/10.1080/14763141.2024.2302830
+ 
+ \* Rightmire, Z. B., Agostinelli, P. J., **Murrah, W. M.**, Roper, J. A., Roberts, M. D., & Sefton, J. M. (2024). Acute high-intensity interval training improves esport performance in super smash brothers ultimate competitors. Journal of Electronic Gaming and Esports, 2(1). https://doi.org/10.1123/jege.2023-0031.
+ 
+\* Agostinelli, P. J., Bordonie, N. C., Robbins, A. M., Jones, P. L., Reagan, L. F., Mobley, C. B., Miller, M. W., **Murrah, W. M.**, & Sefton, J. M. (2024). The effect of two acute exercise modalities on physiology and condition during firefighter occupational tasks. International Journal of Exercise Science: Conference Proceedings, 16. https://digitalcommons.wku.edu/ijesab/vol16/iss3/1 
+ 
+ \* Zou, C., Zhao, Y., Garza, K. B., Hollingsworth, J. C., **Murrah, W. M.**, Westrick, S., & Fox, B. I. (2023). Text message interventions for physical activity among university students: a systematic review and meta-analysis. American Journal of Pharmaceutical Education, 87(8), 100538. https://doi.org/10.1016/j.ajpe.2023.100538
+ 
+ \* Brinkerhoff, S. A., **Murrah, W. M.**, & Roper, J. A. (2023). The relationship between gait speed and mediolateral stability depends on a person’s preferred speed. Scientific Reports, 13(1). https://doi.org/10.1038/s41598-023-32948-z
 
 \*Lyons, K.D., Parks, A.G., Dadematthews, O.D., Zandieh, N.L.,  McHenry P.A., Games K.E., Goodlett M.D., **Murrah W.M.**, Roper J.A., Sefton, J.M. (2023). Core and Whole-Body Vibration Exercise Improve Military Foot March Performance in Novice Trainees: A Randomized Controlled Trial. *Military Medicine* 188 (1-2), e254-e259.
 
@@ -105,43 +119,41 @@ Hulleman, C. S., Lee, M.,**Murrah, W. M.** et al. (in preparation). From politic
 
 ## Presentations
 
-\*Neely, K., Zhang, Z., Blanton, R., Gladson,  M., Schmid, D. Heavlin, H., Brown, S., Brown, S., Pangelinan, M.,  Murrah, W. M. (2022). *Balance Control in Midlife Adults With and Without ADHD.* Presented at North American Society for the Psychology of Sport and Physical Activity. 
+
+**Murrah, W.M.**, Chesser, S., Neugebauer, N.M. (2022). *Nonlinear Gompertz Curves of Mathematics, Reading, and Science Achievement*, Presented at the American Educational Research Association Annual Meeting.
+
+\* Moore, T.F., Chesser, S., **Murrah, W.M.** (2022), *Improving Connectedness in At-Risk Adolescents in the Alternative School Setting*, Poster presented at the American Educational Research Association Annual Meeting.
+
+\*Neely, K., Zhang, Z., Blanton, R., Gladson,  M., Schmid, D. Heavlin, H., Brown, S., Brown, S., Pangelinan, M.,  **Murrah, W. M.** (2022). *Balance Control in Midlife Adults With and Without ADHD.* Presented at North American Society for the Psychology of Sport and Physical Activity. 
 
 \*Neely, K., Zhang, Z., & **Murrah, W. M.** (2021) *Variability in Motor Control: Multilevel Modeling Reveals Meaningful Differences in Force Output.* Presented at North American Society for the Psychology of Sport and Physical Activity Virtual Conference.
 
-Schmid, D., Blanton, R., White, T., Murrah, W. M., & Kneely, K. (2021). *Withdrawn Behavior Influences Engagement in Vigorous and Moderate Physical Activity*. Presented at the North American Society for the Psychology of Sport and Physical Activity Virtual Conference.
+Schmid, D., Blanton, R., White, T., **Murrah, W. M.**, & Kneely, K. (2021). *Withdrawn Behavior Influences Engagement in Vigorous and Moderate Physical Activity*. Presented at the North American Society for the Psychology of Sport and Physical Activity Virtual Conference.
 
-Francis, M., Tibbetts, Y., Murrah, W. M., Phelps, J., Silverman, D., Moran, M., Kosovich, J., & Hulleman, C. (2018) *Using a utility-value intervention to remove barriers in gateway math courses.* Poster presented at the 2018 Understanding Interventions Conference, Baltimore, MD.
+Francis, M., Tibbetts, Y., **Murrah, W. M.**, Phelps, J., Silverman, D., Moran, M., Kosovich, J., & Hulleman, C. (2018) *Using a utility-value intervention to remove barriers in gateway math courses.* Poster presented at the 2018 Understanding Interventions Conference, Baltimore, MD.
 
-Murrah, W. M., Ruzek, E. A., & Grissmer, D. W. (2017) *Children's fine motor skills are important for school readiness and science achievement.* Symposium presented at the Society for Research in Child Development 2017 Biennial Meeting, Austin, TX. 
+**Murrah, W. M.**, Ruzek, E. A., & Grissmer, D. W. (2017) *Children's fine motor skills are important for school readiness and science achievement.* Symposium presented at the Society for Research in Child Development 2017 Biennial Meeting, Austin, TX. 
 
-Murrah, W. M.(2015) *The Relative Importance of School Readiness Skills as Predictors of First, Third, and Eighth Grade Achievement*. Poster presented at the Society for Research in Child Development Biennial Meeting, Philadelphia, PA.
+**Murrah, W. M.**(2015) *The Relative Importance of School Readiness Skills as Predictors of First, Third, and Eighth Grade Achievement*. Poster presented at the Society for Research in Child Development Biennial Meeting, Philadelphia, PA.
 
-Murrah, W. M., Grissmer, D., Ko, Michelle, Player, D., Cabell, S., O'Brien, R. H.(2015). *Early achievement impacts of Core Knowledge charter schools on early comprehension and general knowledge through 1st grade.* Presented at Association for Education Finance and Policy Annual Conference. Washington, DC.
+**Murrah, W. M.**, Grissmer, D., Ko, Michelle, Player, D., Cabell, S., O'Brien, R. H.(2015). *Early achievement impacts of Core Knowledge charter schools on early comprehension and general knowledge through 1st grade.* Presented at Association for Education Finance and Policy Annual Conference. Washington, DC.
 
-Murrah. W. M. (2013) *The evolution and evaluation of a play-based, after-school curriculum that improves executive function, visuospatial and math skills for disadvantaged children.* Organizer of seminar and presenter at the Society for Research on Educational Effectiveness Fall Conference. Washington, DC.
+**Murrah. W. M.** (2013) *The evolution and evaluation of a play-based, after-school curriculum that improves executive function, visuospatial and math skills for disadvantaged children.* Organizer of seminar and presenter at the Society for Research on Educational Effectiveness Fall Conference. Washington, DC.
 
-Murrah. W. M. (2011). *Explaining the association between fine motor skills and math achievement.* Seminar presented to the faculty and students of the developmental psychology department at the University of Virginia. Charlottesville, VA
+**Murrah. W. M.** (2011). *Explaining the association between fine motor skills and math achievement.* Seminar presented to the faculty and students of the developmental psychology department at the University of Virginia. Charlottesville, VA
 
-Murrah, W. M. (2011). *Fine motor skills predict later math, science, and reading achievement*. Symposium presented at the Society for Research in Child Development 2011 Biennial Meeting, Montreal, Quebec.
+**Murrah. W. M.** (2011). *Fine motor skills predict later math, science, and reading achievement*. Symposium presented at the Society for Research in Child Development 2011 Biennial Meeting, Montreal, Quebec.
 
-Murrah, W. M. (2010). *Fine motor skills as a predictor of later math, reading, and science elementary achievement.* Paper presented to the Conference on Human Development, 2010 Annual Meeting, New York City, NY.
+**Murrah. W. M.** (2010). *Fine motor skills as a predictor of later math, reading, and science elementary achievement.* Paper presented to the Conference on Human Development, 2010 Annual Meeting, New York City, NY.
 
-Murrah, W. M. (2009). *Which developmental skills predict later math, reading, and science elementary school achievement?* Paper presented to National Science Foundation Advisory Board, 2009. Charlottesville, VA.
+**Murrah. W. M.** (2009). *Which developmental skills predict later math, reading, and science elementary school achievement?* Paper presented to National Science Foundation Advisory Board, 2009. Charlottesville, VA.
 
 
 # Grant Funding
 
-## Current Funding
+## Previous Funding
 
 How the Motor System Reflects Impulsivity and Inhibitory Control in Healthy Young Adults. PI: Kristina Neely. *Auburn University Intramural Grants Program*. $20,600. Role: Co-PI.
-
-  
-## Proposed Funding
-
-Pendola, A., (PI) & Murrah, W. M. (CO-PI). (Under Review) At-Promise Learning Communities for STEM Excellence. *Researcher Support Program*, Auburn University. $41,341
-
-## Previous Funding
 
 Removing Barriers to Success in Mathematics: An Integrative Expectancy-Value Intervention. PI: Chris Hulleman. *National Science Foundation*. Approximately $1,500,000. Project Period: 9/01/2015 - 8/31/2019. Role: Senior Personnel/Methodologist.
 
@@ -151,7 +163,7 @@ Evaluation of Core Knowledge charter schools in Colorado. *Institute of Educatio
 
 Efficacy of the WINGS after-school social and emotional learning (SEL) program. *Institute of Education Sciences*. Approximately $2,700,000. Project Period: 09/01/2011 - 8/31/2015. Role: Research Scientist/Methodologist. 
 
-Math and science achievement gaps for minority and disadvantaged students: Developmental and environmental influences from nine months to 8th grade, *National Science Foundation*, 2008 - 2012 ($952,710) Role: Co-Investigator/Methodologist.
+Math and science achievement gaps for minority and disadvantaged students: Developmental and environmental influences from nine months to 8th grade, *National Science Foundation*, 2008 - 2012 ($952,710) Role: Co-Investigator/ Methodologist.
 
 Improving fine motor skill development to promote mathematical ability, *Institute of Education Sciences*, 2009 - 2012 ($462,765) Role: Primary Data Analyst
 
