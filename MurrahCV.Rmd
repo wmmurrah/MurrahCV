@@ -23,7 +23,6 @@ library(vitae)
 # Education
  
 ## Ph.D. Educational Psychology, University of Virginia, 2010.
-
 ## M.Ed. Community and Agency Counseling, University of Montevallo, 1998.
 ## B.S. Psychology,  University of Montevallo, 1993.
   
@@ -41,25 +40,26 @@ library(vitae)
 
 # Research
 
-
 ## Publications
  \* indicates collaboration with students.
  
- \* Monaghan, P. G., **Murrah, W. M.**, Walker, H. C., Neely, K. A., & Roper, J. A. (2024). Evaluating postural transition movement performance in individuals with essential tremor via the instrumented timed up and go. Sensors, 24(7), 2216. https://doi.org/10.3390/s24072216.
+ \* Monaghan, P. G., **Murrah, W. M.**, Walker, H. C., Neely, K. A., & Roper, J. A. (2024). Evaluating postural transition movement performance in individuals with essential tremor via the instrumented timed up and go. *Sensors*, 24(7), 2216. https://doi.org/10.3390/s24072216.
  
- Giordano, K. A., Barrack, A. J., **Murrah, W. M.**, Karduna, A. R., Michener, L. A., & Wasserberger, K. W. (2024). Usage and acceptability of data normalization in baseball pitching. Sports Biomechanics, 1–12. https://doi.org/10.1080/14763141.2024.2302830
+ Giordano, K. A., Barrack, A. J., **Murrah, W. M.**, Karduna, A. R., Michener, L. A., & Wasserberger, K. W. (2024). Usage and acceptability of data normalization in baseball pitching. *Sports Biomechanics*, 1–12. https://doi.org/10.1080/14763141.2024.2302830
  
- \* Rightmire, Z. B., Agostinelli, P. J., **Murrah, W. M.**, Roper, J. A., Roberts, M. D., & Sefton, J. M. (2024). Acute high-intensity interval training improves esport performance in super smash brothers ultimate competitors. Journal of Electronic Gaming and Esports, 2(1). https://doi.org/10.1123/jege.2023-0031.
+ Grissmer, D., Buddin, R., Berends, M., White, T.G., Willingham, D.T., Decoster, J., Duran, Chelsea, A.K., Hulleman, C.S., **Murrah, W. M.**, Evans, T. (2024). How Building Knowledge Boosts Literacy and Learning First causal study finds outsized impacts at “Core Knowledge” schools. *Education Next*, 24(2), 52-56.
  
-\* Agostinelli, P. J., Bordonie, N. C., Robbins, A. M., Jones, P. L., Reagan, L. F., Mobley, C. B., Miller, M. W., **Murrah, W. M.**, & Sefton, J. M. (2024). The effect of two acute exercise modalities on physiology and condition during firefighter occupational tasks. International Journal of Exercise Science: Conference Proceedings, 16. https://digitalcommons.wku.edu/ijesab/vol16/iss3/1 
+ \* Rightmire, Z. B., Agostinelli, P. J., **Murrah, W. M.**, Roper, J. A., Roberts, M. D., & Sefton, J. M. (2024). Acute high-intensity interval training improves esport performance in super smash brothers ultimate competitors. *Journal of Electronic Gaming and Esports*, 2(1). https://doi.org/10.1123/jege.2023-0031.
  
- \* Zou, C., Zhao, Y., Garza, K. B., Hollingsworth, J. C., **Murrah, W. M.**, Westrick, S., & Fox, B. I. (2023). Text message interventions for physical activity among university students: a systematic review and meta-analysis. American Journal of Pharmaceutical Education, 87(8), 100538. https://doi.org/10.1016/j.ajpe.2023.100538
+\* Agostinelli, P. J., Bordonie, N. C., Robbins, A. M., Jones, P. L., Reagan, L. F., Mobley, C. B., Miller, M. W., **Murrah, W. M.**, & Sefton, J. M. (2024). The effect of two acute exercise modalities on physiology and condition during firefighter occupational tasks. *International Journal of Exercise Science: Conference Proceedings*, 16. https://digitalcommons.wku.edu/ijesab/vol16/iss3/1 
  
- \* Brinkerhoff, S. A., **Murrah, W. M.**, & Roper, J. A. (2023). The relationship between gait speed and mediolateral stability depends on a person’s preferred speed. Scientific Reports, 13(1). https://doi.org/10.1038/s41598-023-32948-z
+ \* Zou, C., Zhao, Y., Garza, K. B., Hollingsworth, J. C., **Murrah, W. M.**, Westrick, S., & Fox, B. I. (2023). Text message interventions for physical activity among university students: a systematic review and meta-analysis. *American Journal of Pharmaceutical Education*, 87(8), 100538. https://doi.org/10.1016/j.ajpe.2023.100538
+ 
+ \* Brinkerhoff, S. A., **Murrah, W. M.**, & Roper, J. A. (2023). The relationship between gait speed and mediolateral stability depends on a person’s preferred speed. *Scientific Reports*, 13(1). https://doi.org/10.1038/s41598-023-32948-z
 
 \*Lyons, K.D., Parks, A.G., Dadematthews, O.D., Zandieh, N.L.,  McHenry P.A., Games K.E., Goodlett M.D., **Murrah W.M.**, Roper J.A., Sefton, J.M. (2023). Core and Whole-Body Vibration Exercise Improve Military Foot March Performance in Novice Trainees: A Randomized Controlled Trial. *Military Medicine* 188 (1-2), e254-e259.
 
-\*Brinkerhoff, S.A., Mathew, G.M., **Murrah, W.M.**, Chang, A.M., Roper, J.A., Neely, K.A. (2022). Sleep restriction impairs visually and memory-guided force control. *PloS One, 17 (9), e0274121.  https://doi.org/10.1371/journal.pone.0274121 
+\*Brinkerhoff, S.A., Mathew, G.M., **Murrah, W.M.**, Chang, A.M., Roper, J.A., Neely, K.A. (2022). Sleep restriction impairs visually and memory-guided force control. *PlOS One*, 17 (9), e0274121.  https://doi.org/10.1371/journal.pone.0274121 
 
 \*Larsen, J., Roper, J., **Murrah, W.M.**, & Zabala, M. (2022). Cognitive dual-task alters Local Dynamic Stability of lower extremity during common movements. *Journal of Bioimechanics*, 137, 111077.
 
@@ -97,28 +97,7 @@ Ponitz, C. C., Brock, L. L., **Murrah, W. M.**, Bell, L., Worzalla, S., Grissmer
 
 Grissmer, D., Grimm, K.J., Aiyer, S.M., **Murrah, W. M.**, & Steele, J.S. (2010). Fine motor skills and early comprehension of the world: Two new school readiness indicators. *Developmental Psychology*, 46(5), 1008-1017.
 
-\begin{comment}
-
-## Publications under Review
-\* indicates collaboration with students.
-
-
-
-\*Friesen, K. B., Barfield, J. W., Murrah, W. M., Dugas, J. R., Andrews, J. R., & Oliver, G. D. (under review). Upper body kinematics that best explain National Collegiate Athletic Association (NCAA) division I softball pitcher's ERA. *Journal of Sports Sciences*.
-
-
-## Publications in Preparation
-\* indicates collaboration with students.
-
-**Murrah. W. M.**, Frances, M., Silverman, D., Hulleman, C. S. (in preparation). Network analysis of front-door math courses in community college.
-
-Hulleman, C. S., Tibbetts, Y., **Murrah, W. M.** (in preparation). Impacts of a utility value intervention among community college students in front-door math courses.
-
-Hulleman, C. S., Lee, M.,**Murrah, W. M.** et al. (in preparation). From politics to hurricanes: Lessons learned from a research-practice partnership focused on improving motivation in community college math. 
-\end{comment}
-
 ## Presentations
-
 
 **Murrah, W.M.**, Chesser, S., Neugebauer, N.M. (2022). *Nonlinear Gompertz Curves of Mathematics, Reading, and Science Achievement*, Presented at the American Educational Research Association Annual Meeting.
 
@@ -148,10 +127,11 @@ Francis, M., Tibbetts, Y., **Murrah, W. M.**, Phelps, J., Silverman, D., Moran, 
 
 **Murrah. W. M.** (2009). *Which developmental skills predict later math, reading, and science elementary school achievement?* Paper presented to National Science Foundation Advisory Board, 2009. Charlottesville, VA.
 
-
 # Grant Funding
 
 ## Previous Funding
+
+Inhibitory Motor Control in Adults with ADHD, PI: Kristina Neely, *Auburn University Intramural Grants Program*. $25,000;  Role: Co-investigator.
 
 How the Motor System Reflects Impulsivity and Inhibitory Control in Healthy Young Adults. PI: Kristina Neely. *Auburn University Intramural Grants Program*. $20,600. Role: Co-PI.
 
@@ -181,13 +161,19 @@ Graduate Research Assistant, *University of Virginia*, 2005-2006.
 
 # Teaching
 
-Design and Analysis III, ERMA 8320, *Auburn University*, Fall 2018.
+Special Topics: Multilevel Modeling, ERMA 7970, *Auburn University *Summer 2020.
+ 
+Advanced Measurement Theory, ERMA 8350, *Auburn University*, 2022 - 2023.
 
-Design and Analysis II, ERMA 7310, *Auburn University*, Spring 2018.
+Introduction to Structural Equation Modeling, ERMA 8340, *Auburn University*, 2019 - 2022.
 
-Design and Analysis I, ERMA 7300, *Auburn University*, Spring 2017 - Fall 2018.
+Design and Analysis III, ERMA 8320, *Auburn University*, 2018 - 2022.
 
-Basic Methods in Education Research, ERMA 7200, *Auburn University*, Fall 2016.
+Design and Analysis II, ERMA 7310, *Auburn University*, 2018 - 2023.
+
+Design and Analysis I, ERMA 7300, *Auburn University*, 2017 - 2023.
+
+Basic Methods in Education Research, ERMA 7200, *Auburn University*, 2016 - 2021.
 
 Confirmatory Factor Analysis and Scale Reliability, Statistical Programming Workshop, University of Virginia, January, 2016.
 
