@@ -1,18 +1,25 @@
 ---
-name: William (Hank) 
-surname: Murrah
-position: "Associate Professor and Department Head"
-address: "College of Education, Auburn University"
-# profilepic: profileSmall.jpg
-phone: 334-844-3806
-www: statistical-thinking.com
-email: "wmm0017@auburn.edu"
-twitter: EdStat
-github: wmmurrah
-linkedin: wmmurrah
-headcolor: 333335 #E87722 # black = 000000
-date: "`r format(Sys.time(), '%B %Y')`"
-output: vitae::awesomecv
+author: William (Hank) Murrah
+title: Associate Professor and Department Head
+format:
+  classic-cv-pdf: default
+cvfooter:
+  left: "mr.schochastics.net"
+  right: "github.com/"
+cvcolor: 58748F #without `#`
+cvfont: raleway #texlive fonts like raleway,fetamont,gillius,comfortaa
+cvmeta:
+  - title: Status
+    left: Team Lead for Transparent Social Analytics, GESIS
+    right: Cologne, Germany
+  - title: Field
+    left: Software Engineering, Data Science
+    right: mr.schochastics.net
+  - title: Techs
+    left: R, bash, Python, javascript, Lua
+    right: david@schochastics.net
+execute:
+  echo: false
 ---
 
 ```{r setup, include=FALSE}
@@ -43,7 +50,7 @@ library(vitae)
 ## Publications
  \* indicates collaboration with students.
  
- \* Monaghan, P. G., **Murrah, W. M.**, Walker, H. C., Neely, K. A., & Roper, J. A. (2024). Evaluating postural transition movement performance in individuals with essential tremor via the instrumented timed up and go. *Sensors*, 24(7), 2216. https://doi.org/10.3390/s24072216.
+ \* Monaghan, P. G., **Murrah, W. M.**, Walker, H. C., Neely, K. A., & Roper, J. A. (2024). Evaluating postural transition movement performance in individuals with essential tremor via the instrumented timed up and go. *Sensors*, 24(7), 2216. https://doi.org/10.3390/s24072216.    
  
  Giordano, K. A., Barrack, A. J., **Murrah, W. M.**, Karduna, A. R., Michener, L. A., & Wasserberger, K. W. (2024). Usage and acceptability of data normalization in baseball pitching. *Sports Biomechanics*, 1–12. https://doi.org/10.1080/14763141.2024.2302830
  
@@ -253,3 +260,4 @@ Independent Contract Work, *Central Alabama*, 1997 - 2002.
 Adventure Based Counselor/Case Manager, *Bradford Health Services*, Pelham, AL, 1995 - 1997.
 
 Conflict Resolution Counselor, *Jemison Boy's Ranch*, Jemison, AL, 1993 - 1995.
+
