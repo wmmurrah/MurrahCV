@@ -43,6 +43,12 @@ library(vitae)
 ## Publications
  \* indicates collaboration with students.
  
+ Bacelar, M.F.B, Parma,  J. O., **Murrah, W.M.**, & Miller, M.W. (2024). Meta-analyzing enhanced expectancies on motor learning: Positive effects but methodological concerns. *International Review of Sport and Exercise Psychology*, 17(1), 587-616. https://www.tandfonline.com/action/showCitFormats?doi=10.1080/1750984X.2022.2042839
+ 
+\* Agostinelli, P., Bordonie, N., Linder, B., Robbins, A., Jones, P., Reagan, L., Mobley, C. B., MIller, M., **Murrah, W. M.**, & Sefton, J. E. (2024). The impact of training status on firefighter task performance after acute exercise. Physiology, 39(S1). https://doi.org/10.1152/physiol.2024.39.s1.870
+ 
+\* Bordonie, N., Agostinelli, P., Linder, B., Robbins, A., Jones, P., Reagan, L., Mobley, C. B., Miller, **M., Murrah, W. M.**, & Sefton, J. (2024). Impact of anaerobic fitness on performance and physiology during simulated firefighting tasks. Physiology, 39(S1). https://doi.org/10.1152/physiol.2024.39.s1.2060
+ 
  \* Monaghan, P. G., **Murrah, W. M.**, Walker, H. C., Neely, K. A., & Roper, J. A. (2024). Evaluating postural transition movement performance in individuals with essential tremor via the instrumented timed up and go. *Sensors*, 24(7), 2216. https://doi.org/10.3390/s24072216.
  
  Giordano, K. A., Barrack, A. J., **Murrah, W. M.**, Karduna, A. R., Michener, L. A., & Wasserberger, K. W. (2024). Usage and acceptability of data normalization in baseball pitching. *Sports Biomechanics*, 1–12. https://doi.org/10.1080/14763141.2024.2302830
@@ -62,8 +68,6 @@ library(vitae)
 \*Brinkerhoff, S.A., Mathew, G.M., **Murrah, W.M.**, Chang, A.M., Roper, J.A., Neely, K.A. (2022). Sleep restriction impairs visually and memory-guided force control. *PlOS One*, 17 (9), e0274121.  https://doi.org/10.1371/journal.pone.0274121 
 
 \*Larsen, J., Roper, J., **Murrah, W.M.**, & Zabala, M. (2022). Cognitive dual-task alters Local Dynamic Stability of lower extremity during common movements. *Journal of Bioimechanics*, 137, 111077.
-
-\*Bacelar, M.F.B., Parma, J.O. **Murrah, W.M.**, & Miller, M.W. (2022). Meta-analyzing enhanced expectancies on motor learning: Positive effects but methodological concerns. *International Review of Sports and Exercise Psychology*, DOI: 10.1080/1750984X.2022.2042839.
 
 \*Parks, A.G., **Murrah, W.M.**, Weimer, W.H., McHenry, P.A., Biogham, D., Giordano, K., & Sefton, J.M. (2022). Impact of two types of fitness programs on soldier physical fitness. *International Journal of Exercise Science*, 15(4) 1326-1346.
 
@@ -96,6 +100,12 @@ Cameron, C. E., Cottone, E. A., **Murrah, W. M.** & Grissmer, D. W. (2016). How 
 Ponitz, C. C., Brock, L. L., **Murrah, W. M.**, Bell, L., Worzalla, S., Grissmer, D. W., & Morrison, F. J. (2012). Fine motor skills and executive function both contribute to kindergarten achievement. *Child Development*, 83(4), 1229-1244.
 
 Grissmer, D., Grimm, K.J., Aiyer, S.M., **Murrah, W. M.**, & Steele, J.S. (2010). Fine motor skills and early comprehension of the world: Two new school readiness indicators. *Developmental Psychology*, 46(5), 1008-1017.
+
+## Articles Under Review
+
+ Sarah A. Brinkerhoff, Natalia Sanchez, Meral N. Culver, **William M. Murrah**, Austin T. Robinson, J. Danielle McCullough, Matthew W. Miller, Jaimie A. Roper (under review). The dual timescales of gait adaptation: initial stability adjustments followed by subsequent energetic cost adjustments. *Journal of Experimental Biology*. 
+ 
+Philip Joshua Agostinell,  Nicholas C. Bordonie,  Braxton A. Linder, Ann M. Robbins, Parker L. Jones, Lee F. Reagan, C. Brooks Mobley, Matthew W. Miller, **William M. Murrah**, JoEllen M. Sefton (under review). Acute exercise impacts heart rate variability but not cognitive flexibility during subsequent simulated firefighter occupational tasks. *European Journal of Applied Physiology*.
 
 ## Presentations
 
