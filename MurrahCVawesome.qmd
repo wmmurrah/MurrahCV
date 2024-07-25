@@ -1,31 +1,20 @@
 ---
-author: William (Hank) Murrah
-title: Associate Professor and Department Head
-format:
-  classic-cv-pdf: default
-cvfooter:
-  left: "mr.schochastics.net"
-  right: "github.com/"
-cvcolor: 58748F #without `#`
-cvfont: raleway #texlive fonts like raleway,fetamont,gillius,comfortaa
-cvmeta:
-  - title: Status
-    left: Team Lead for Transparent Social Analytics, GESIS
-    right: Cologne, Germany
-  - title: Field
-    left: Software Engineering, Data Science
-    right: mr.schochastics.net
-  - title: Techs
-    left: R, bash, Python, javascript, Lua
-    right: david@schochastics.net
+title: William (Hank) Murrah
+author:
+  firstname: William (Hank) 
+  lastname: Murrah
+  address: "Rämistrasse 101, CH-8092 Zürich, Switzerland, Zürich"
+  position: Research Physicist・Professor
+  contacts:
+    - icon: fa envelope
+      text: wmm0017@auburn.edu
+      url: "mailto:wmm0017@auburn.edu"
+format: awesomecv-typst
 execute:
   echo: false
+  warning: false
+  message: false 
 ---
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
-library(vitae)
-```
 
 # Education
  
@@ -35,8 +24,8 @@ library(vitae)
   
 # Current Position
 
-**Department Head**, *Department of Educational Foundations, Leadership, and Technology*, College of Education, **Auburn University**, 2023-present.   
-  
+**Department Head**, *Department of Educational Foundations, Leadership, and Technology*, College of Education, **Auburn University**, 2023-present.
+
 **Associate Professor**, *Educational Research, Measurement, and Assessment Program, Educational Foundations, Leadership, & Technology*, **Auburn University** , 2021-present.
 
 **Assistant Professor**, *Educational Research, Measurement, and Assessment Program, Educational Foundations, Leadership, & Technology*, **Auburn University** , 2016-2021.
@@ -50,13 +39,19 @@ library(vitae)
 ## Publications
  \* indicates collaboration with students.
  
- \* Monaghan, P. G., **Murrah, W. M.**, Walker, H. C., Neely, K. A., & Roper, J. A. (2024). Evaluating postural transition movement performance in individuals with essential tremor via the instrumented timed up and go. *Sensors*, 24(7), 2216. https://doi.org/10.3390/s24072216.    
+ Bacelar, M.F.B, Parma,  J. O., **Murrah, W.M.**, & Miller, M.W. (2024). Meta-analyzing enhanced expectancies on motor learning: Positive effects but methodological concerns. *International Review of Sport and Exercise Psychology*, 17(1), 587-616. https://www.tandfonline.com/action/showCitFormats?doi=10.1080/1750984X.2022.2042839
  
- Giordano, K. A., Barrack, A. J., **Murrah, W. M.**, Karduna, A. R., Michener, L. A., & Wasserberger, K. W. (2024). Usage and acceptability of data normalization in baseball pitching. *Sports Biomechanics*, 1–12. https://doi.org/10.1080/14763141.2024.2302830   
+\* Agostinelli, P., Bordonie, N., Linder, B., Robbins, A., Jones, P., Reagan, L., Mobley, C. B., MIller, M., **Murrah, W. M.**, & Sefton, J. E. (2024). The impact of training status on firefighter task performance after acute exercise. Physiology, 39(S1). https://doi.org/10.1152/physiol.2024.39.s1.870
  
- Grissmer, D., Buddin, R., Berends, M., White, T.G., Willingham, D.T., Decoster, J., Duran, Chelsea, A.K., Hulleman, C.S., **Murrah, W. M.**, Evans, T. (2024). How Building Knowledge Boosts Literacy and Learning First causal study finds outsized impacts at “Core Knowledge” schools. *Education Next*, 24(2), 52-56.    
+\* Bordonie, N., Agostinelli, P., Linder, B., Robbins, A., Jones, P., Reagan, L., Mobley, C. B., Miller, **M., Murrah, W. M.**, & Sefton, J. (2024). Impact of anaerobic fitness on performance and physiology during simulated firefighting tasks. Physiology, 39(S1). https://doi.org/10.1152/physiol.2024.39.s1.2060
  
- \* Rightmire, Z. B., Agostinelli, P. J., **Murrah, W. M.**, Roper, J. A., Roberts, M. D., & Sefton, J. M. (2024). Acute high-intensity interval training improves esport performance in super smash brothers ultimate competitors. *Journal of Electronic Gaming and Esports*, 2(1). https://doi.org/10.1123/jege.2023-0031.   
+ \* Monaghan, P. G., **Murrah, W. M.**, Walker, H. C., Neely, K. A., & Roper, J. A. (2024). Evaluating postural transition movement performance in individuals with essential tremor via the instrumented timed up and go. *Sensors*, 24(7), 2216. https://doi.org/10.3390/s24072216.
+ 
+ Giordano, K. A., Barrack, A. J., **Murrah, W. M.**, Karduna, A. R., Michener, L. A., & Wasserberger, K. W. (2024). Usage and acceptability of data normalization in baseball pitching. *Sports Biomechanics*, 1–12. https://doi.org/10.1080/14763141.2024.2302830
+ 
+ Grissmer, D., Buddin, R., Berends, M., White, T.G., Willingham, D.T., Decoster, J., Duran, Chelsea, A.K., Hulleman, C.S., **Murrah, W. M.**, Evans, T. (2024). How Building Knowledge Boosts Literacy and Learning First causal study finds outsized impacts at “Core Knowledge” schools. *Education Next*, 24(2), 52-56.
+ 
+ \* Rightmire, Z. B., Agostinelli, P. J., **Murrah, W. M.**, Roper, J. A., Roberts, M. D., & Sefton, J. M. (2024). Acute high-intensity interval training improves esport performance in super smash brothers ultimate competitors. *Journal of Electronic Gaming and Esports*, 2(1). https://doi.org/10.1123/jege.2023-0031.
  
 \* Agostinelli, P. J., Bordonie, N. C., Robbins, A. M., Jones, P. L., Reagan, L. F., Mobley, C. B., Miller, M. W., **Murrah, W. M.**, & Sefton, J. M. (2024). The effect of two acute exercise modalities on physiology and condition during firefighter occupational tasks. *International Journal of Exercise Science: Conference Proceedings*, 16. https://digitalcommons.wku.edu/ijesab/vol16/iss3/1 
  
@@ -69,8 +64,6 @@ library(vitae)
 \*Brinkerhoff, S.A., Mathew, G.M., **Murrah, W.M.**, Chang, A.M., Roper, J.A., Neely, K.A. (2022). Sleep restriction impairs visually and memory-guided force control. *PlOS One*, 17 (9), e0274121.  https://doi.org/10.1371/journal.pone.0274121 
 
 \*Larsen, J., Roper, J., **Murrah, W.M.**, & Zabala, M. (2022). Cognitive dual-task alters Local Dynamic Stability of lower extremity during common movements. *Journal of Bioimechanics*, 137, 111077.
-
-\*Bacelar, M.F.B., Parma, J.O. **Murrah, W.M.**, & Miller, M.W. (2022). Meta-analyzing enhanced expectancies on motor learning: Positive effects but methodological concerns. *International Review of Sports and Exercise Psychology*, DOI: 10.1080/1750984X.2022.2042839.
 
 \*Parks, A.G., **Murrah, W.M.**, Weimer, W.H., McHenry, P.A., Biogham, D., Giordano, K., & Sefton, J.M. (2022). Impact of two types of fitness programs on soldier physical fitness. *International Journal of Exercise Science*, 15(4) 1326-1346.
 
@@ -106,7 +99,9 @@ Grissmer, D., Grimm, K.J., Aiyer, S.M., **Murrah, W. M.**, & Steele, J.S. (2010)
 
 ## Articles Under Review
 
- Sarah A. Brinkerhoff, Natalia Sanchez; Meral N. Culver, **William M. Murrah**, Austin T. Robinson, J. Danielle McCullough, Matthew W. Miller, Jaimie A. Roper (under review). The dual timescales of gait adaptation: initial stability adjustments followed by subsequent energetic cost adjustments. *Journal of Experimental Biology*. 
+ Sarah A. Brinkerhoff, Natalia Sanchez, Meral N. Culver, **William M. Murrah**, Austin T. Robinson, J. Danielle McCullough, Matthew W. Miller, Jaimie A. Roper (under review). The dual timescales of gait adaptation: initial stability adjustments followed by subsequent energetic cost adjustments. *Journal of Experimental Biology*. 
+ 
+Philip Joshua Agostinell,  Nicholas C. Bordonie,  Braxton A. Linder, Ann M. Robbins, Parker L. Jones, Lee F. Reagan, C. Brooks Mobley, Matthew W. Miller, **William M. Murrah**, JoEllen M. Sefton (under review). Acute exercise impacts heart rate variability but not cognitive flexibility during subsequent simulated firefighter occupational tasks. *European Journal of Applied Physiology*.
 
 ## Presentations
 
@@ -264,4 +259,3 @@ Independent Contract Work, *Central Alabama*, 1997 - 2002.
 Adventure Based Counselor/Case Manager, *Bradford Health Services*, Pelham, AL, 1995 - 1997.
 
 Conflict Resolution Counselor, *Jemison Boy's Ranch*, Jemison, AL, 1993 - 1995.
-
