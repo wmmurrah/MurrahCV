@@ -40,10 +40,28 @@ library(vitae)
 
 # Research
 
-## Publications
+## **Publications**
  \* indicates collaboration with students.
+
+Agostinelli, P.J., Bordonie, N.C., Linder, B.A., Robbins, A.M., Jones, P.L., Reagan, L.F., Mobley C.B., Miller M.W. , **Murrah, W.M.**, & Sefton, J.M (2025). Acute exercise impacts heart rate variability but not cognitive flexibility during subsequent simulated firefighter occupational tasks. *Eur J Appl Physiol* 125, 1037–1048. https://doi.org/10.1007/s00421-024-05650-9
+
+Monaghan, P. G., **Murrah, W. M.**, Neely, K. A., Walker, H. C., & Roper, J. A. (2024). Exploring age-related differences in the relationship between spatial and temporal contributions to step length asymmetry during split-belt adaptation. *Experimental Brain Research*, 242(12), 2815–2825. https://doi.org/10.1007/s00221-024-06929-1
+  
+Monaghan, P. G., **Murrah, W. M.**, Walker, H. C., Neely, K. A., & Roper, J. A. (2024). Cognitive-motor interference in people with essential tremor. Scientific Reports, 14(1). https://doi.org/10.1038/s41598-024-74310-x
+ 
+ Brinkerhoff, S. A., Sánchez, N., Culver, M. N., **Murrah, W. M.**, Robinson, A. T., McCullough, J. D., Miller, M. W., & Roper, J. A. (2024). The dual timescales of gait adaptation: initial stability adjustments followed by subsequent energetic cost adjustments. *Journal of Experimental Biology*, 227(23). https://doi.org/10.1242/jeb.249217
+
+ Grissmer, D., Berends, M., Willingham, D. T., Duran, C. A. K., **Murrah, W. M.**, Evans, T., Hulleman, C. S., Decoster, J., White, T. G., & Buddin, R. (2024). How building knowledge boosts literacy and learning: first causal study finds outsized impacts at "Core Knowledge” schools. *Education Next*, 24(2), 8-12. https://www.educationnext.org/how-building-knowledge-boosts-literacy-and-learning/
+
+  Agostinelli, P. J., Bordonie, N. C., Linder, B. A., Robbins, A. M., Jones, P. L., Reagan, L. F., Mobley, C. B., Miller, M. W., **Murrah, W. M.**, & Sefton, J. M. (2024). Acute exercise impacts heart rate variability but not cognitive flexibility during subsequent simulated firefighter occupational tasks. *European Journal of Applied Physiology*. https://doi.org/10.1007/s00421-024-05650-9
+ 
+ Agostinelli, P. J., Bordonie, N. C., Robbins, A. M., Jones, P. L., Reagan, L. F., Mobley, C. B., Miller, **M. W., Murrah**, W. M., & Sefton, J. M. (2024). Impact of acute exercise on performance and physiological stress during simulated firefighter occupational tasks. *Scientific Reports*, 14(1). https://doi.org/10.1038/s41598-024-81015-8
  
  Bacelar, M.F.B, Parma,  J. O., **Murrah, W.M.**, & Miller, M.W. (2024). Meta-analyzing enhanced expectancies on motor learning: Positive effects but methodological concerns. *International Review of Sport and Exercise Psychology*, 17(1), 587-616. https://www.tandfonline.com/action/showCitFormats?doi=10.1080/1750984X.2022.2042839
+ 
+ Bordonie, N., Agostinelli, P., Robbins, A., Jones, P., Reagan, L., Mobley, B., Miller, M., **Murrah, W.**, & Sefton, J. (2024). Sex-differences in physiology during simulated firefighting tasks following acute exercise: 2374. *Medicine & Science in Sports & Exercise*, 56(10S), 875. https://doi.org/10.1249/01.mss.0001060196.48236.4b
+ 
+ Bordonie, N., Agostinelli, P., Linder, B., Robbins, A., Jones, P., Reagan, L., Mobley, C. B., Miller, M., **Murrah, W. M.**, & Sefton, J. (2024). Impact of anaerobic fitness on performance and physiology during simulated firefighting tasks. *Physiology*, 39(S1). https://doi.org/10.1152/physiol.2024.39.s1.2060
  
 \* Agostinelli, P., Bordonie, N., Linder, B., Robbins, A., Jones, P., Reagan, L., Mobley, C. B., MIller, M., **Murrah, W. M.**, & Sefton, J. E. (2024). The impact of training status on firefighter task performance after acute exercise. Physiology, 39(S1). https://doi.org/10.1152/physiol.2024.39.s1.870
  
@@ -53,12 +71,8 @@ library(vitae)
  
  Giordano, K. A., Barrack, A. J., **Murrah, W. M.**, Karduna, A. R., Michener, L. A., & Wasserberger, K. W. (2024). Usage and acceptability of data normalization in baseball pitching. *Sports Biomechanics*, 1–12. https://doi.org/10.1080/14763141.2024.2302830
  
- Grissmer, D., Buddin, R., Berends, M., White, T.G., Willingham, D.T., Decoster, J., Duran, Chelsea, A.K., Hulleman, C.S., **Murrah, W. M.**, Evans, T. (2024). How Building Knowledge Boosts Literacy and Learning First causal study finds outsized impacts at “Core Knowledge” schools. *Education Next*, 24(2), 52-56.
- 
- \* Rightmire, Z. B., Agostinelli, P. J., **Murrah, W. M.**, Roper, J. A., Roberts, M. D., & Sefton, J. M. (2024). Acute high-intensity interval training improves esport performance in super smash brothers ultimate competitors. *Journal of Electronic Gaming and Esports*, 2(1). https://doi.org/10.1123/jege.2023-0031.
- 
-\* Agostinelli, P. J., Bordonie, N. C., Robbins, A. M., Jones, P. L., Reagan, L. F., Mobley, C. B., Miller, M. W., **Murrah, W. M.**, & Sefton, J. M. (2024). The effect of two acute exercise modalities on physiology and condition during firefighter occupational tasks. *International Journal of Exercise Science: Conference Proceedings*, 16. https://digitalcommons.wku.edu/ijesab/vol16/iss3/1 
- 
+ \* Rightmire, Z. B., Agostinelli, P. J., **Murrah, W. M.**, Roper, J. A., Roberts, M. D., & Sefton, J. M. (2024). Acute high-intensity interval training improves esport performance in Super Smash Brothers ultimate competitors. *Journal of Electronic Gaming and Esports*, 2(1). https://doi.org/10.1123/jege.2023-0031.
+
  \* Zou, C., Zhao, Y., Garza, K. B., Hollingsworth, J. C., **Murrah, W. M.**, Westrick, S., & Fox, B. I. (2023). Text message interventions for physical activity among university students: a systematic review and meta-analysis. *American Journal of Pharmaceutical Education*, 87(8), 100538. https://doi.org/10.1016/j.ajpe.2023.100538
  
  \* Brinkerhoff, S. A., **Murrah, W. M.**, & Roper, J. A. (2023). The relationship between gait speed and mediolateral stability depends on a person’s preferred speed. *Scientific Reports*, 13(1). https://doi.org/10.1038/s41598-023-32948-z
@@ -101,13 +115,9 @@ Ponitz, C. C., Brock, L. L., **Murrah, W. M.**, Bell, L., Worzalla, S., Grissmer
 
 Grissmer, D., Grimm, K.J., Aiyer, S.M., **Murrah, W. M.**, & Steele, J.S. (2010). Fine motor skills and early comprehension of the world: Two new school readiness indicators. *Developmental Psychology*, 46(5), 1008-1017.
 
-## Articles Under Review
+## **Presentations**
 
- Sarah A. Brinkerhoff, Natalia Sanchez, Meral N. Culver, **William M. Murrah**, Austin T. Robinson, J. Danielle McCullough, Matthew W. Miller, Jaimie A. Roper (under review). The dual timescales of gait adaptation: initial stability adjustments followed by subsequent energetic cost adjustments. *Journal of Experimental Biology*. 
- 
-Philip Joshua Agostinell,  Nicholas C. Bordonie,  Braxton A. Linder, Ann M. Robbins, Parker L. Jones, Lee F. Reagan, C. Brooks Mobley, Matthew W. Miller, **William M. Murrah**, JoEllen M. Sefton (under review). Acute exercise impacts heart rate variability but not cognitive flexibility during subsequent simulated firefighter occupational tasks. *European Journal of Applied Physiology*.
-
-## Presentations
+Agostinelli, P. J., Bordonie, N. C., Robbins, A. M., Jones, P. L., Reagan, L. F., Mobley, C. B., Miller, M. W., **Murrah, W. M.**, & Sefton, J. M. (2024). The effect of two acute exercise modalities on physiology and condition during firefighter occupational tasks. *International Journal of Exercise Science: Conference Proceedings*, 16. https://digitalcommons.wku.edu/ijesab/vol16/iss3/1
 
 **Murrah, W.M.**, Chesser, S., Neugebauer, N.M. (2022). *Nonlinear Gompertz Curves of Mathematics, Reading, and Science Achievement*, Presented at the American Educational Research Association Annual Meeting.
 
@@ -139,7 +149,7 @@ Francis, M., Tibbetts, Y., **Murrah, W. M.**, Phelps, J., Silverman, D., Moran, 
 
 # Grant Funding
 
-## Previous Funding
+## **Previous Funding**
 
 Inhibitory Motor Control in Adults with ADHD, PI: Kristina Neely, *Auburn University Intramural Grants Program*. $25,000;  Role: Co-investigator.
 
@@ -159,7 +169,7 @@ Improving fine motor skill development to promote mathematical ability, *Institu
 
 New kindergarten readiness indicators for math and science: Next steps in validation, communication and projecting policy impacts, *National Science Foundation*, 2010-2012 ($297,653) Role: Co-investigator/Methodologist. 
 
-## Other Research Experience
+## **Other Research Experience**
 
 Research Associate, *University of Virginia*, Summer 2010--Spring 2014.
 
@@ -203,7 +213,7 @@ Child Development, teaching assistant, University of Virginia, 2006-2007.
 
 Child Development, co-instructor, Hampton Roads Center, University of Virginia, Spring 2005.
 
-## Professional Activities
+## **Professional Activities**
 
 
 Editorial Board for *Interdisciplinary Education and Psychology*.
@@ -220,12 +230,12 @@ Member, *Society for Research in Child Development*
 
 Member, *American Educational Research Association*
 
-## Invited Workshops
+## **Invited Workshops**
 
 SREE Workshop: Intervention Fidelity -Models, Methods, and Applications, Fall 2014
 
 
-## Trainings and Conferences Attended
+## **Trainings and Conferences Attended**
 
 Intensive Longitudinal Methods, Statistical Horizons, October 23-24, 2015
 
@@ -246,9 +256,9 @@ Multi-Modal Neuroimaging Training, Martinos Medical Center, Boston, December 13-
 Conference on Human Development, New York, April 9-12, 2010
 
 
-## Software Proficiency
+## **Software Proficiency**
 
-R, Mplus, \LaTeX, SPSS, Python, Stan, JAGS
+R, Mplus, \LaTeX, SPSS, Python, Stan, JAGS, NetLogo
 
 # Other  Professional Experience
 

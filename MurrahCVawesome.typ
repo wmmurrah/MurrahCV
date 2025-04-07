@@ -354,11 +354,11 @@
 //   - https://github.com/typst/templates
 
 #show: resume.with(
-  title: [William \(Hank) Murrah],
+  title: [William (Hank) Murrah],
   author: (
-    firstname: unescape_text("William \(Hank)"),
+    firstname: unescape_text("William (Hank)"),
     lastname: unescape_text("Murrah"),
-    address: unescape_text("Rämistrasse 101, CH-8092 Zürich, Switzerland, Zürich"),
+    address: unescape_text("4038 Haley Center, Auburn University, Auburn, AL 36849"),
     position: unescape_text("Research Physicist・Professor"),
     contacts: ((
       text: unescape_text("wmm0017\@auburn.edu"),
@@ -393,99 +393,99 @@
 <publications>
 \* indicates collaboration with students.
 
-Bacelar, M.F.B, Parma, J. O., #strong[Murrah, W.M.];, & Miller, M.W. \(2024). Meta-analyzing enhanced expectancies on motor learning: Positive effects but methodological concerns. #emph[International Review of Sport and Exercise Psychology];, 17\(1), 587-616. https:\/\/www.tandfonline.com/action/showCitFormats?doi\=10.1080/1750984X.2022.2042839
+Bacelar, M.F.B, Parma, J. O., #strong[Murrah, W.M.];, & Miller, M.W. (2024). Meta-analyzing enhanced expectancies on motor learning: Positive effects but methodological concerns. #emph[International Review of Sport and Exercise Psychology];, 17(1), 587-616. https:\/\/www.tandfonline.com/action/showCitFormats?doi=10.1080/1750984X.2022.2042839
 
-\* Agostinelli, P., Bordonie, N., Linder, B., Robbins, A., Jones, P., Reagan, L., Mobley, C. B., MIller, M., #strong[Murrah, W. M.];, & Sefton, J. E. \(2024). The impact of training status on firefighter task performance after acute exercise. Physiology, 39\(S1). https:\/\/doi.org/10.1152/physiol.2024.39.s1.870
+\* Agostinelli, P., Bordonie, N., Linder, B., Robbins, A., Jones, P., Reagan, L., Mobley, C. B., MIller, M., #strong[Murrah, W. M.];, & Sefton, J. E. (2024). The impact of training status on firefighter task performance after acute exercise. Physiology, 39(S1). https:\/\/doi.org/10.1152/physiol.2024.39.s1.870
 
-\* Bordonie, N., Agostinelli, P., Linder, B., Robbins, A., Jones, P., Reagan, L., Mobley, C. B., Miller, #strong[M., Murrah, W. M.];, & Sefton, J. \(2024). Impact of anaerobic fitness on performance and physiology during simulated firefighting tasks. Physiology, 39\(S1). https:\/\/doi.org/10.1152/physiol.2024.39.s1.2060
+\* Bordonie, N., Agostinelli, P., Linder, B., Robbins, A., Jones, P., Reagan, L., Mobley, C. B., Miller, #strong[M., Murrah, W. M.];, & Sefton, J. (2024). Impact of anaerobic fitness on performance and physiology during simulated firefighting tasks. Physiology, 39(S1). https:\/\/doi.org/10.1152/physiol.2024.39.s1.2060
 
-\* Monaghan, P. G., #strong[Murrah, W. M.];, Walker, H. C., Neely, K. A., & Roper, J. A. \(2024). Evaluating postural transition movement performance in individuals with essential tremor via the instrumented timed up and go. #emph[Sensors];, 24\(7), 2216. https:\/\/doi.org/10.3390/s24072216.
+\* Monaghan, P. G., #strong[Murrah, W. M.];, Walker, H. C., Neely, K. A., & Roper, J. A. (2024). Evaluating postural transition movement performance in individuals with essential tremor via the instrumented timed up and go. #emph[Sensors];, 24(7), 2216. https:\/\/doi.org/10.3390/s24072216.
 
-Giordano, K. A., Barrack, A. J., #strong[Murrah, W. M.];, Karduna, A. R., Michener, L. A., & Wasserberger, K. W. \(2024). Usage and acceptability of data normalization in baseball pitching. #emph[Sports Biomechanics];, 1–12. https:\/\/doi.org/10.1080/14763141.2024.2302830
+Giordano, K. A., Barrack, A. J., #strong[Murrah, W. M.];, Karduna, A. R., Michener, L. A., & Wasserberger, K. W. (2024). Usage and acceptability of data normalization in baseball pitching. #emph[Sports Biomechanics];, 1–12. https:\/\/doi.org/10.1080/14763141.2024.2302830
 
-Grissmer, D., Buddin, R., Berends, M., White, T.G., Willingham, D.T., Decoster, J., Duran, Chelsea, A.K., Hulleman, C.S., #strong[Murrah, W. M.];, Evans, T. \(2024). How Building Knowledge Boosts Literacy and Learning First causal study finds outsized impacts at "Core Knowledge" schools. #emph[Education Next];, 24\(2), 52-56.
+Grissmer, D., Buddin, R., Berends, M., White, T.G., Willingham, D.T., Decoster, J., Duran, Chelsea, A.K., Hulleman, C.S., #strong[Murrah, W. M.];, Evans, T. (2024). How Building Knowledge Boosts Literacy and Learning First causal study finds outsized impacts at "Core Knowledge" schools. #emph[Education Next];, 24(2), 52-56.
 
-\* Rightmire, Z. B., Agostinelli, P. J., #strong[Murrah, W. M.];, Roper, J. A., Roberts, M. D., & Sefton, J. M. \(2024). Acute high-intensity interval training improves esport performance in super smash brothers ultimate competitors. #emph[Journal of Electronic Gaming and Esports];, 2\(1). https:\/\/doi.org/10.1123/jege.2023-0031.
+\* Rightmire, Z. B., Agostinelli, P. J., #strong[Murrah, W. M.];, Roper, J. A., Roberts, M. D., & Sefton, J. M. (2024). Acute high-intensity interval training improves esport performance in super smash brothers ultimate competitors. #emph[Journal of Electronic Gaming and Esports];, 2(1). https:\/\/doi.org/10.1123/jege.2023-0031.
 
-\* Agostinelli, P. J., Bordonie, N. C., Robbins, A. M., Jones, P. L., Reagan, L. F., Mobley, C. B., Miller, M. W., #strong[Murrah, W. M.];, & Sefton, J. M. \(2024). The effect of two acute exercise modalities on physiology and condition during firefighter occupational tasks. #emph[International Journal of Exercise Science: Conference Proceedings];, 16. https:\/\/digitalcommons.wku.edu/ijesab/vol16/iss3/1
+\* Agostinelli, P. J., Bordonie, N. C., Robbins, A. M., Jones, P. L., Reagan, L. F., Mobley, C. B., Miller, M. W., #strong[Murrah, W. M.];, & Sefton, J. M. (2024). The effect of two acute exercise modalities on physiology and condition during firefighter occupational tasks. #emph[International Journal of Exercise Science: Conference Proceedings];, 16. https:\/\/digitalcommons.wku.edu/ijesab/vol16/iss3/1
 
-\* Zou, C., Zhao, Y., Garza, K. B., Hollingsworth, J. C., #strong[Murrah, W. M.];, Westrick, S., & Fox, B. I. \(2023). Text message interventions for physical activity among university students: a systematic review and meta-analysis. #emph[American Journal of Pharmaceutical Education];, 87\(8), 100538. https:\/\/doi.org/10.1016/j.ajpe.2023.100538
+\* Zou, C., Zhao, Y., Garza, K. B., Hollingsworth, J. C., #strong[Murrah, W. M.];, Westrick, S., & Fox, B. I. (2023). Text message interventions for physical activity among university students: a systematic review and meta-analysis. #emph[American Journal of Pharmaceutical Education];, 87(8), 100538. https:\/\/doi.org/10.1016/j.ajpe.2023.100538
 
-\* Brinkerhoff, S. A., #strong[Murrah, W. M.];, & Roper, J. A. \(2023). The relationship between gait speed and mediolateral stability depends on a person’s preferred speed. #emph[Scientific Reports];, 13\(1). https:\/\/doi.org/10.1038/s41598-023-32948-z
+\* Brinkerhoff, S. A., #strong[Murrah, W. M.];, & Roper, J. A. (2023). The relationship between gait speed and mediolateral stability depends on a person’s preferred speed. #emph[Scientific Reports];, 13(1). https:\/\/doi.org/10.1038/s41598-023-32948-z
 
-\*Lyons, K.D., Parks, A.G., Dadematthews, O.D., Zandieh, N.L., McHenry P.A., Games K.E., Goodlett M.D., #strong[Murrah W.M.];, Roper J.A., Sefton, J.M. \(2023). Core and Whole-Body Vibration Exercise Improve Military Foot March Performance in Novice Trainees: A Randomized Controlled Trial. #emph[Military Medicine] 188 \(1-2), e254-e259.
+\*Lyons, K.D., Parks, A.G., Dadematthews, O.D., Zandieh, N.L., McHenry P.A., Games K.E., Goodlett M.D., #strong[Murrah W.M.];, Roper J.A., Sefton, J.M. (2023). Core and Whole-Body Vibration Exercise Improve Military Foot March Performance in Novice Trainees: A Randomized Controlled Trial. #emph[Military Medicine] 188 (1-2), e254-e259.
 
-\*Brinkerhoff, S.A., Mathew, G.M., #strong[Murrah, W.M.];, Chang, A.M., Roper, J.A., Neely, K.A. \(2022). Sleep restriction impairs visually and memory-guided force control. #emph[PlOS One];, 17 \(9), e0274121. https:\/\/doi.org/10.1371/journal.pone.0274121
+\*Brinkerhoff, S.A., Mathew, G.M., #strong[Murrah, W.M.];, Chang, A.M., Roper, J.A., Neely, K.A. (2022). Sleep restriction impairs visually and memory-guided force control. #emph[PlOS One];, 17 (9), e0274121. https:\/\/doi.org/10.1371/journal.pone.0274121
 
-\*Larsen, J., Roper, J., #strong[Murrah, W.M.];, & Zabala, M. \(2022). Cognitive dual-task alters Local Dynamic Stability of lower extremity during common movements. #emph[Journal of Bioimechanics];, 137, 111077.
+\*Larsen, J., Roper, J., #strong[Murrah, W.M.];, & Zabala, M. (2022). Cognitive dual-task alters Local Dynamic Stability of lower extremity during common movements. #emph[Journal of Bioimechanics];, 137, 111077.
 
-\*Parks, A.G., #strong[Murrah, W.M.];, Weimer, W.H., McHenry, P.A., Biogham, D., Giordano, K., & Sefton, J.M. \(2022). Impact of two types of fitness programs on soldier physical fitness. #emph[International Journal of Exercise Science];, 15\(4) 1326-1346.
+\*Parks, A.G., #strong[Murrah, W.M.];, Weimer, W.H., McHenry, P.A., Biogham, D., Giordano, K., & Sefton, J.M. (2022). Impact of two types of fitness programs on soldier physical fitness. #emph[International Journal of Exercise Science];, 15(4) 1326-1346.
 
-\*Lyons, K.D., Parks, A.G., Dadematthews, O., Zandieh, N., McHenry, P., Games, K.e., Goodlett, M.D., #strong[Murrah, W.M.];, Roper, J., & Sefton, J.M. \(2021). Core and whole body vibration exercise influences muscle sensitivity and posture during a military foot march. #emph[International Journal of Environmental Research and Public Health];, 18, 4966.
+\*Lyons, K.D., Parks, A.G., Dadematthews, O., Zandieh, N., McHenry, P., Games, K.e., Goodlett, M.D., #strong[Murrah, W.M.];, Roper, J., & Sefton, J.M. (2021). Core and whole body vibration exercise influences muscle sensitivity and posture during a military foot march. #emph[International Journal of Environmental Research and Public Health];, 18, 4966.
 
-Frugé, A.D., Smith, K.S., Riviere, A.J., Tenpenny-Chigas, R., Demark-Wahnefried, W., Arthur, A.E., #strong[Murrah, W.M.];, Pol, W.J., Jasper, S.L., Morrow, C.D., Arnold, R.D. Braxton-Lloyd, K. \(2021). A Dietary Intervention High in Green Leafy Vegetables Reduces Oxidative DNA Damage in Adults at Increased Risk of Colorectal Cancer: Biological Outcomes of the Randomized Controlled Meat and Three Greens \(M3G) Feasibility Trial. #emph[Nutrients];, 13\(3), 1220.
+Frugé, A.D., Smith, K.S., Riviere, A.J., Tenpenny-Chigas, R., Demark-Wahnefried, W., Arthur, A.E., #strong[Murrah, W.M.];, Pol, W.J., Jasper, S.L., Morrow, C.D., Arnold, R.D. Braxton-Lloyd, K. (2021). A Dietary Intervention High in Green Leafy Vegetables Reduces Oxidative DNA Damage in Adults at Increased Risk of Colorectal Cancer: Biological Outcomes of the Randomized Controlled Meat and Three Greens (M3G) Feasibility Trial. #emph[Nutrients];, 13(3), 1220.
 
-#strong[Murrah, W. M.] \(2020). Compound Bias Due to Measurement Error When Comparing Regression Coefficients, #emph[Educational and Psychological Measurement];, 80\(3).
+#strong[Murrah, W. M.] (2020). Compound Bias Due to Measurement Error When Comparing Regression Coefficients, #emph[Educational and Psychological Measurement];, 80(3).
 
-\*Wright, T. K., #strong[Murrah, W. M.];, Zabala M. E. \(2020). Knee Valgus vs.~Knee Abduction Angle: Comparative Analysis of Medial Knee Collapse Definitions in Female Athletes, #emph[Journal of Biomechanical Engineering];.
+\*Wright, T. K., #strong[Murrah, W. M.];, Zabala M. E. (2020). Knee Valgus vs.~Knee Abduction Angle: Comparative Analysis of Medial Knee Collapse Definitions in Female Athletes, #emph[Journal of Biomechanical Engineering];.
 
-Chesser, S., #strong[Murrah, W. M.];, Forbes, S. A. \(2020). Impact of Personality on Choice of Instructional Delivery and Students’ Performance, #emph[American Journal of Distance Education];.
+Chesser, S., #strong[Murrah, W. M.];, Forbes, S. A. (2020). Impact of Personality on Choice of Instructional Delivery and Students’ Performance, #emph[American Journal of Distance Education];.
 
-Frugé, A.D., Smith, K.S., Riviere, A.J., Demark-Wahnefried, W., Arthur, A.E. #strong[Murrah, W.M.];, Morrow, C.D. Arnold, R.D. Braxton-Lloyd, K. \(2019) Primary outcomes of a randomized controlled crossover trial to explore the effects of a high chlorophyll dietary intervention to reduce colon cancer risk in adults: The Meat and Three Greens \(M3G) Feasibility Trial, #emph[Nutrients];.
+Frugé, A.D., Smith, K.S., Riviere, A.J., Demark-Wahnefried, W., Arthur, A.E. #strong[Murrah, W.M.];, Morrow, C.D. Arnold, R.D. Braxton-Lloyd, K. (2019) Primary outcomes of a randomized controlled crossover trial to explore the effects of a high chlorophyll dietary intervention to reduce colon cancer risk in adults: The Meat and Three Greens (M3G) Feasibility Trial, #emph[Nutrients];.
 
-\*Friesen, K. B. Barfield, J.W. #strong[Murrah, W.M.];, Dugas, J.R. Andrews, J.R. and Oliver, G.D. \(2019).The Association of Upper-Body Kinematics and Earned Run Average of National Collegiate Athletic Association Division I Softball Pitchers, #emph[Journal of Strength and Conditioning];.
+\*Friesen, K. B. Barfield, J.W. #strong[Murrah, W.M.];, Dugas, J.R. Andrews, J.R. and Oliver, G.D. (2019).The Association of Upper-Body Kinematics and Earned Run Average of National Collegiate Athletic Association Division I Softball Pitchers, #emph[Journal of Strength and Conditioning];.
 
-\*Brinkerhoff, S. A., #strong[Murrah, W. M.] Hutchison, Z. Miller, M. Roper, J. A. \(2019). Words matter: Instructions dictate "self-selected" walking speed in young adults. #emph[Gait & Posture];.
+\*Brinkerhoff, S. A., #strong[Murrah, W. M.] Hutchison, Z. Miller, M. Roper, J. A. (2019). Words matter: Instructions dictate "self-selected" walking speed in young adults. #emph[Gait & Posture];.
 
-Brock, L. L., #strong[Murrah, W. M.];, Cottone, E. A., Mashburn, A. J., & Grissmer, D. W. \(2018). An after-school intervention targeting executive function and visuospatial skills also improves classroom behavior. #emph[International Journal of Behavioral Development];.
+Brock, L. L., #strong[Murrah, W. M.];, Cottone, E. A., Mashburn, A. J., & Grissmer, D. W. (2018). An after-school intervention targeting executive function and visuospatial skills also improves classroom behavior. #emph[International Journal of Behavioral Development];.
 
-#strong[Murrah, W. M.];, Kosovich, J. J., & Hulleman, C. S. \(2016). Measuring Fidelity in Educational Settings. In Roberts, G., Vaughn, S., Beretvas, T., & Wong, V. \(Eds.), #emph[Implementation Fidelity in Randomized Educational Trials: An Applied Perspective.] Routledge.
+#strong[Murrah, W. M.];, Kosovich, J. J., & Hulleman, C. S. (2016). Measuring Fidelity in Educational Settings. In Roberts, G., Vaughn, S., Beretvas, T., & Wong, V. (Eds.), #emph[Implementation Fidelity in Randomized Educational Trials: An Applied Perspective.] Routledge.
 
-Cameron, C. E., Cottone, E. A., #strong[Murrah, W. M.] & Grissmer, D. W. \(2016). How are motor skills linked to children’s school performance and academic achievement? #emph[Child Development Perspectives, 10\(2)];, 93-98.
+Cameron, C. E., Cottone, E. A., #strong[Murrah, W. M.] & Grissmer, D. W. (2016). How are motor skills linked to children’s school performance and academic achievement? #emph[Child Development Perspectives, 10(2)];, 93-98.
 
-\*Kim, H., Schmidt, K. M., #strong[Murrah, W. M.];, Cameron, C. E., & Grissmer, D. \(2015). A Rasch Analysis of the KeyMath-3 Diagnostic Assessment. #emph[Journal of Applied Measurement];, 16\(4), 365-378.
+\*Kim, H., Schmidt, K. M., #strong[Murrah, W. M.];, Cameron, C. E., & Grissmer, D. (2015). A Rasch Analysis of the KeyMath-3 Diagnostic Assessment. #emph[Journal of Applied Measurement];, 16(4), 365-378.
 
-\*Kim, H., #strong[Murrah, W. M.];, Cameron, C. E., Brock, L. L., Cottone, E. A., & Grissmer, D. \(2014). Psychomotor properties of the Teacher-Reported Motor Skills Rating Scale. #emph[Journal of Psychoeducational Assessment];, first published on October 6, 2014 as doi:10.1177/0734282914551536.
+\*Kim, H., #strong[Murrah, W. M.];, Cameron, C. E., Brock, L. L., Cottone, E. A., & Grissmer, D. (2014). Psychomotor properties of the Teacher-Reported Motor Skills Rating Scale. #emph[Journal of Psychoeducational Assessment];, first published on October 6, 2014 as doi:10.1177/0734282914551536.
 
-Ponitz, C. C., Brock, L. L., #strong[Murrah, W. M.];, Bell, L., Worzalla, S., Grissmer, D. W., & Morrison, F. J. \(2012). Fine motor skills and executive function both contribute to kindergarten achievement. #emph[Child Development];, 83\(4), 1229-1244.
+Ponitz, C. C., Brock, L. L., #strong[Murrah, W. M.];, Bell, L., Worzalla, S., Grissmer, D. W., & Morrison, F. J. (2012). Fine motor skills and executive function both contribute to kindergarten achievement. #emph[Child Development];, 83(4), 1229-1244.
 
-Grissmer, D., Grimm, K.J., Aiyer, S.M., #strong[Murrah, W. M.];, & Steele, J.S. \(2010). Fine motor skills and early comprehension of the world: Two new school readiness indicators. #emph[Developmental Psychology];, 46\(5), 1008-1017.
+Grissmer, D., Grimm, K.J., Aiyer, S.M., #strong[Murrah, W. M.];, & Steele, J.S. (2010). Fine motor skills and early comprehension of the world: Two new school readiness indicators. #emph[Developmental Psychology];, 46(5), 1008-1017.
 
 == Articles Under Review
 <articles-under-review>
-Sarah A. Brinkerhoff, Natalia Sanchez, Meral N. Culver, #strong[William M. Murrah];, Austin T. Robinson, J. Danielle McCullough, Matthew W. Miller, Jaimie A. Roper \(under review). The dual timescales of gait adaptation: initial stability adjustments followed by subsequent energetic cost adjustments. #emph[Journal of Experimental Biology];.
+Sarah A. Brinkerhoff, Natalia Sanchez, Meral N. Culver, #strong[William M. Murrah];, Austin T. Robinson, J. Danielle McCullough, Matthew W. Miller, Jaimie A. Roper (under review). The dual timescales of gait adaptation: initial stability adjustments followed by subsequent energetic cost adjustments. #emph[Journal of Experimental Biology];.
 
-Philip Joshua Agostinell, Nicholas C. Bordonie, Braxton A. Linder, Ann M. Robbins, Parker L. Jones, Lee F. Reagan, C. Brooks Mobley, Matthew W. Miller, #strong[William M. Murrah];, JoEllen M. Sefton \(under review). Acute exercise impacts heart rate variability but not cognitive flexibility during subsequent simulated firefighter occupational tasks. #emph[European Journal of Applied Physiology];.
+Philip Joshua Agostinell, Nicholas C. Bordonie, Braxton A. Linder, Ann M. Robbins, Parker L. Jones, Lee F. Reagan, C. Brooks Mobley, Matthew W. Miller, #strong[William M. Murrah];, JoEllen M. Sefton (under review). Acute exercise impacts heart rate variability but not cognitive flexibility during subsequent simulated firefighter occupational tasks. #emph[European Journal of Applied Physiology];.
 
 == Presentations
 <presentations>
-#strong[Murrah, W.M.];, Chesser, S., Neugebauer, N.M. \(2022). #emph[Nonlinear Gompertz Curves of Mathematics, Reading, and Science Achievement];, Presented at the American Educational Research Association Annual Meeting.
+#strong[Murrah, W.M.];, Chesser, S., Neugebauer, N.M. (2022). #emph[Nonlinear Gompertz Curves of Mathematics, Reading, and Science Achievement];, Presented at the American Educational Research Association Annual Meeting.
 
-\* Moore, T.F., Chesser, S., #strong[Murrah, W.M.] \(2022), #emph[Improving Connectedness in At-Risk Adolescents in the Alternative School Setting];, Poster presented at the American Educational Research Association Annual Meeting.
+\* Moore, T.F., Chesser, S., #strong[Murrah, W.M.] (2022), #emph[Improving Connectedness in At-Risk Adolescents in the Alternative School Setting];, Poster presented at the American Educational Research Association Annual Meeting.
 
-\*Neely, K., Zhang, Z., Blanton, R., Gladson, M., Schmid, D. Heavlin, H., Brown, S., Brown, S., Pangelinan, M., #strong[Murrah, W. M.] \(2022). #emph[Balance Control in Midlife Adults With and Without ADHD.] Presented at North American Society for the Psychology of Sport and Physical Activity.
+\*Neely, K., Zhang, Z., Blanton, R., Gladson, M., Schmid, D. Heavlin, H., Brown, S., Brown, S., Pangelinan, M., #strong[Murrah, W. M.] (2022). #emph[Balance Control in Midlife Adults With and Without ADHD.] Presented at North American Society for the Psychology of Sport and Physical Activity.
 
-\*Neely, K., Zhang, Z., & #strong[Murrah, W. M.] \(2021) #emph[Variability in Motor Control: Multilevel Modeling Reveals Meaningful Differences in Force Output.] Presented at North American Society for the Psychology of Sport and Physical Activity Virtual Conference.
+\*Neely, K., Zhang, Z., & #strong[Murrah, W. M.] (2021) #emph[Variability in Motor Control: Multilevel Modeling Reveals Meaningful Differences in Force Output.] Presented at North American Society for the Psychology of Sport and Physical Activity Virtual Conference.
 
-Schmid, D., Blanton, R., White, T., #strong[Murrah, W. M.];, & Kneely, K. \(2021). #emph[Withdrawn Behavior Influences Engagement in Vigorous and Moderate Physical Activity];. Presented at the North American Society for the Psychology of Sport and Physical Activity Virtual Conference.
+Schmid, D., Blanton, R., White, T., #strong[Murrah, W. M.];, & Kneely, K. (2021). #emph[Withdrawn Behavior Influences Engagement in Vigorous and Moderate Physical Activity];. Presented at the North American Society for the Psychology of Sport and Physical Activity Virtual Conference.
 
-Francis, M., Tibbetts, Y., #strong[Murrah, W. M.];, Phelps, J., Silverman, D., Moran, M., Kosovich, J., & Hulleman, C. \(2018) #emph[Using a utility-value intervention to remove barriers in gateway math courses.] Poster presented at the 2018 Understanding Interventions Conference, Baltimore, MD.
+Francis, M., Tibbetts, Y., #strong[Murrah, W. M.];, Phelps, J., Silverman, D., Moran, M., Kosovich, J., & Hulleman, C. (2018) #emph[Using a utility-value intervention to remove barriers in gateway math courses.] Poster presented at the 2018 Understanding Interventions Conference, Baltimore, MD.
 
-#strong[Murrah, W. M.];, Ruzek, E. A., & Grissmer, D. W. \(2017) #emph[Children’s fine motor skills are important for school readiness and science achievement.] Symposium presented at the Society for Research in Child Development 2017 Biennial Meeting, Austin, TX.
+#strong[Murrah, W. M.];, Ruzek, E. A., & Grissmer, D. W. (2017) #emph[Children’s fine motor skills are important for school readiness and science achievement.] Symposium presented at the Society for Research in Child Development 2017 Biennial Meeting, Austin, TX.
 
-#strong[Murrah, W. M.];\(2015) #emph[The Relative Importance of School Readiness Skills as Predictors of First, Third, and Eighth Grade Achievement];. Poster presented at the Society for Research in Child Development Biennial Meeting, Philadelphia, PA.
+#strong[Murrah, W. M.];(2015) #emph[The Relative Importance of School Readiness Skills as Predictors of First, Third, and Eighth Grade Achievement];. Poster presented at the Society for Research in Child Development Biennial Meeting, Philadelphia, PA.
 
-#strong[Murrah, W. M.];, Grissmer, D., Ko, Michelle, Player, D., Cabell, S., O’Brien, R. H.\(2015). #emph[Early achievement impacts of Core Knowledge charter schools on early comprehension and general knowledge through 1st grade.] Presented at Association for Education Finance and Policy Annual Conference. Washington, DC.
+#strong[Murrah, W. M.];, Grissmer, D., Ko, Michelle, Player, D., Cabell, S., O’Brien, R. H.(2015). #emph[Early achievement impacts of Core Knowledge charter schools on early comprehension and general knowledge through 1st grade.] Presented at Association for Education Finance and Policy Annual Conference. Washington, DC.
 
-#strong[Murrah. W. M.] \(2013) #emph[The evolution and evaluation of a play-based, after-school curriculum that improves executive function, visuospatial and math skills for disadvantaged children.] Organizer of seminar and presenter at the Society for Research on Educational Effectiveness Fall Conference. Washington, DC.
+#strong[Murrah. W. M.] (2013) #emph[The evolution and evaluation of a play-based, after-school curriculum that improves executive function, visuospatial and math skills for disadvantaged children.] Organizer of seminar and presenter at the Society for Research on Educational Effectiveness Fall Conference. Washington, DC.
 
-#strong[Murrah. W. M.] \(2011). #emph[Explaining the association between fine motor skills and math achievement.] Seminar presented to the faculty and students of the developmental psychology department at the University of Virginia. Charlottesville, VA
+#strong[Murrah. W. M.] (2011). #emph[Explaining the association between fine motor skills and math achievement.] Seminar presented to the faculty and students of the developmental psychology department at the University of Virginia. Charlottesville, VA
 
-#strong[Murrah. W. M.] \(2011). #emph[Fine motor skills predict later math, science, and reading achievement];. Symposium presented at the Society for Research in Child Development 2011 Biennial Meeting, Montreal, Quebec.
+#strong[Murrah. W. M.] (2011). #emph[Fine motor skills predict later math, science, and reading achievement];. Symposium presented at the Society for Research in Child Development 2011 Biennial Meeting, Montreal, Quebec.
 
-#strong[Murrah. W. M.] \(2010). #emph[Fine motor skills as a predictor of later math, reading, and science elementary achievement.] Paper presented to the Conference on Human Development, 2010 Annual Meeting, New York City, NY.
+#strong[Murrah. W. M.] (2010). #emph[Fine motor skills as a predictor of later math, reading, and science elementary achievement.] Paper presented to the Conference on Human Development, 2010 Annual Meeting, New York City, NY.
 
-#strong[Murrah. W. M.] \(2009). #emph[Which developmental skills predict later math, reading, and science elementary school achievement?] Paper presented to National Science Foundation Advisory Board, 2009. Charlottesville, VA.
+#strong[Murrah. W. M.] (2009). #emph[Which developmental skills predict later math, reading, and science elementary school achievement?] Paper presented to National Science Foundation Advisory Board, 2009. Charlottesville, VA.
 
 = Grant Funding
 <grant-funding>
@@ -501,13 +501,13 @@ Developmental Skills Linked to Math and Science Achievement: An Interdisciplinar
 
 Evaluation of Core Knowledge charter schools in Colorado. #emph[Institute of Education Sciences];. Approximately \$4,900,000. Project Period: 07/01/2009 - 12/31/2015. Role: Research Scientist/Methodologist.
 
-Efficacy of the WINGS after-school social and emotional learning \(SEL) program. #emph[Institute of Education Sciences];. Approximately \$2,700,000. Project Period: 09/01/2011 - 8/31/2015. Role: Research Scientist/Methodologist.
+Efficacy of the WINGS after-school social and emotional learning (SEL) program. #emph[Institute of Education Sciences];. Approximately \$2,700,000. Project Period: 09/01/2011 - 8/31/2015. Role: Research Scientist/Methodologist.
 
-Math and science achievement gaps for minority and disadvantaged students: Developmental and environmental influences from nine months to 8th grade, #emph[National Science Foundation];, 2008 - 2012 \(\$952,710) Role: Co-Investigator/ Methodologist.
+Math and science achievement gaps for minority and disadvantaged students: Developmental and environmental influences from nine months to 8th grade, #emph[National Science Foundation];, 2008 - 2012 (\$952,710) Role: Co-Investigator/ Methodologist.
 
-Improving fine motor skill development to promote mathematical ability, #emph[Institute of Education Sciences];, 2009 - 2012 \(\$462,765) Role: Primary Data Analyst
+Improving fine motor skill development to promote mathematical ability, #emph[Institute of Education Sciences];, 2009 - 2012 (\$462,765) Role: Primary Data Analyst
 
-New kindergarten readiness indicators for math and science: Next steps in validation, communication and projecting policy impacts, #emph[National Science Foundation];, 2010-2012 \(\$297,653) Role: Co-investigator/Methodologist.
+New kindergarten readiness indicators for math and science: Next steps in validation, communication and projecting policy impacts, #emph[National Science Foundation];, 2010-2012 (\$297,653) Role: Co-investigator/Methodologist.
 
 == Other Research Experience
 <other-research-experience>
