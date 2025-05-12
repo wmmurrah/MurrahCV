@@ -3,13 +3,13 @@ title: William (Hank) Murrah
 author:
   firstname: William (Hank) 
   lastname: Murrah
-  address: "Rämistrasse 101, CH-8092 Zürich, Switzerland, Zürich"
+  address: "4038 Haley Center, Auburn University, Auburn, AL 36849"
   position: Research Physicist・Professor
   contacts:
     - icon: fa envelope
       text: wmm0017@auburn.edu
       url: "mailto:wmm0017@auburn.edu"
-format: awesomecv-typst
+#format: awesomecv-typst
 execute:
   echo: false
   warning: false

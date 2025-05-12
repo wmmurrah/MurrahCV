@@ -13,3 +13,8 @@ Dr. Murrah teaching introductory as well as advanced research methods courses in
 
 Dr. Murrah received his B.S in Psychology and a Master's degree in Community and Agency Counseling, and a Ph.D. in Educational Psychology with a specialization in cogntive development and research methods.
 
+
+## Website Bio
+
+William (Hank) Murrah is an Associate Professor and Department Head of Educational Foundations, Leadership, and Technology at Auburn University's College of Education. His research primarily focuses on causal modeling, longitudinal within-subjects designs, and advanced measurement techniques to understand educational interventions and developmental processes. Dr. Murrah has an extensive background in designing, implementing, and evaluating educational interventions, particularly those targeting math and science achievement gaps, executive function, and motor skill development in children. He emphasizes methodological rigor in intervention fidelity, longitudinal multilevel modeling, and the application of reproducible research practices. His scholarly work has appeared in leading journals such as Child Development, Developmental Psychology, and International Journal of Behavioral Development, accumulating over 2,500 citations. Dr. Murrah actively collaborates across disciplines, employing advanced statistical modeling to address complex questions in education, health, and motor learning.
+

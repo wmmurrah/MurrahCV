@@ -470,6 +470,7 @@ Philip Joshua Agostinell, Nicholas C. Bordonie, Braxton A. Linder, Ann M. Robbin
 \*Neely, K., Zhang, Z., & #strong[Murrah, W. M.] (2021) #emph[Variability in Motor Control: Multilevel Modeling Reveals Meaningful Differences in Force Output.] Presented at North American Society for the Psychology of Sport and Physical Activity Virtual Conference.
 
 Schmid, D., Blanton, R., White, T., #strong[Murrah, W. M.];, & Kneely, K. (2021). #emph[Withdrawn Behavior Influences Engagement in Vigorous and Moderate Physical Activity];. Presented at the North American Society for the Psychology of Sport and Physical Activity Virtual Conference.
+Schmid, D., Blanton, R., White, T., #strong[Murrah, W. M.];, & Kneely, K. (2021). #emph[Withdrawn Behavior Influences Engagement in Vigorous and Moderate Physical Activity];. Presented at the North American Society for the Psychology of Sport and Physical Activity Virtual Conference.
 
 Francis, M., Tibbetts, Y., #strong[Murrah, W. M.];, Phelps, J., Silverman, D., Moran, M., Kosovich, J., & Hulleman, C. (2018) #emph[Using a utility-value intervention to remove barriers in gateway math courses.] Poster presented at the 2018 Understanding Interventions Conference, Baltimore, MD.
 
