@@ -39,6 +39,8 @@ execute:
 ## Publications
  \* indicates collaboration with students.
  
+ Agostinelli P.J., Bordonie, N.C., Robbins. A.M., Jones. P.L., Reagan. L.F., Mobley. C.B., Miller. M.W., **Murrah, W.M.**, Sefton, J.M. (2025) Impact of acute exercise on performance and physiological stress during simulated firefighter occupational tasks. *Scientific Reports* v14(1):29778. doi:10.1038/s41598-024-81015-8. PMID: 39616210; PMCID: PMC11608254.
+
  Bacelar, M.F.B, Parma,  J. O., **Murrah, W.M.**, & Miller, M.W. (2024). Meta-analyzing enhanced expectancies on motor learning: Positive effects but methodological concerns. *International Review of Sport and Exercise Psychology*, 17(1), 587-616. https://www.tandfonline.com/action/showCitFormats?doi=10.1080/1750984X.2022.2042839
  
 \* Agostinelli, P., Bordonie, N., Linder, B., Robbins, A., Jones, P., Reagan, L., Mobley, C. B., MIller, M., **Murrah, W. M.**, & Sefton, J. E. (2024). The impact of training status on firefighter task performance after acute exercise. Physiology, 39(S1). https://doi.org/10.1152/physiol.2024.39.s1.870

@@ -42,7 +42,24 @@ library(vitae)
 
 ## Publications
  \* indicates collaboration with students.
+
+Agostinelli, P. J., Bordonie, N. C., Linder, B. A., Robbins, A. M., Jones, P. L., Reagan, L. F., Mobley, C. B., Miller, M. W., **Murrah, W. M.**, & Sefton, J. M. (2024). Acute exercise impacts heart rate variability but not cognitive flexibility during subsequent simulated firefighter occupational tasks. *European Journal of Applied Physiology*, 125(4), 1037–1048. https://doi.org/https://doi.org/10.1007/s00421-024-05650-9
+
+Agostinelli, P. J., Bordonie, N. C., Linder, B. A., Robbins, A. M., Jones, P. L., Reagan, L. F., Mobley, C. B., Miller, M. W., **Murrah, W. M.**, & Sefton, J. M. (2025). The Effect of Fitness on Performance, Exertion, and Cognition During Simulated Firefighter Occupational Tasks. Journal of Functional Morphology and Kinesiology, 10(2), 129. https://doi.org/10.3390/jfmk10020129
+
+Pendola, A., Appiah, J., **Murrah, W.**, & Beavers, C. (2025). Strategies for efficacy and belongingness towards foundational STEM skills for at-promise graduate students: The QMER  learning community. *Current Issues in Education*, 26(1).
+https://doi.org/10.14507/cie.vol26iss1.2260
  
+Brinkerhoff, S.A., Sánchez, N.,  Culver, M.N., **Murrah, W.M.**, Robinson, A.T., McCullough, J.D., Miller, M.W., Roper, J.A. (2024). The dual timescales of gait adaptation: initial stability adjustments followed by subsequent energetic cost adjustments. *Journal of Experimental Biology, 227 (23): jeb249217. doi: https://doi.org/10.1242/jeb.249217
+
+Monaghan, P.G., **Murrah, W.M.**, Neely, K.A. et al. Exploring age-related differences in the relationship between spatial and temporal contributions to step length asymmetry during split-belt adaptation. Experimental Brain Research 242, 2815–2825 (2024). https://doi.org/10.1007/s00221-024-06929-1
+
+\* Agostinelli P.J., Bordonie, N.C., Robbins. A.M., Jones. P.L., Reagan. L.F., Mobley. C.B., Miller. M.W., **Murrah, W.M.**, Sefton, J.M. (2025) Impact of acute exercise on performance and physiological stress during simulated firefighter occupational tasks. *Scientific Reports* v14(1):29778. doi:10.1038/s41598-024-81015-8. PMID: 39616210; PMCID: PMC11608254.
+
+\* Agostinelli, P.J., Bordonie, N.C., Linder, B.A., Robbins, A.M., Jones, P.L., Reagan, L.F., Mobley, C.B., Miller, M.W., **Murrah, W.M.**, Sefton, J.M. (2024) Acute exercise impacts heart rate variability but not cognitive flexibility during subsequent simulated firefighter occupational tasks. Eur J Appl Physiol. 2025 Apr;125(4):1037-1048. doi: 10.1007/s00421-024-05650-9. Epub 2024 Nov 13. PMID: 39537898; PMCID: PMC11950049. 
+
+Monaghan, P.G., **Murrah, W.M.**, Walker, H.C. et al. Cognitive-motor interference in people with essential tremor. *Scientific Reports, 14, 23456 (2024). https://doi.org/10.1038/s41598-024-74310-x
+
  Bacelar, M.F.B, Parma,  J. O., **Murrah, W.M.**, & Miller, M.W. (2024). Meta-analyzing enhanced expectancies on motor learning: Positive effects but methodological concerns. *International Review of Sport and Exercise Psychology*, 17(1), 587-616. https://www.tandfonline.com/action/showCitFormats?doi=10.1080/1750984X.2022.2042839
  
 \* Agostinelli, P., Bordonie, N., Linder, B., Robbins, A., Jones, P., Reagan, L., Mobley, C. B., MIller, M., **Murrah, W. M.**, & Sefton, J. E. (2024). The impact of training status on firefighter task performance after acute exercise. Physiology, 39(S1). https://doi.org/10.1152/physiol.2024.39.s1.870
@@ -59,33 +76,35 @@ library(vitae)
  
 \* Agostinelli, P. J., Bordonie, N. C., Robbins, A. M., Jones, P. L., Reagan, L. F., Mobley, C. B., Miller, M. W., **Murrah, W. M.**, & Sefton, J. M. (2024). The effect of two acute exercise modalities on physiology and condition during firefighter occupational tasks. *International Journal of Exercise Science: Conference Proceedings*, 16. https://digitalcommons.wku.edu/ijesab/vol16/iss3/1 
  
- \* Zou, C., Zhao, Y., Garza, K. B., Hollingsworth, J. C., **Murrah, W. M.**, Westrick, S., & Fox, B. I. (2023). Text message interventions for physical activity among university students: a systematic review and meta-analysis. *American Journal of Pharmaceutical Education*, 87(8), 100538. https://doi.org/10.1016/j.ajpe.2023.100538
+ \*Zou, C., Zhao, Y., Garza, K. B., Hollingsworth, J. C., **Murrah, W. M.**, Westrick, S., & Fox, B. I. (2023). Text message interventions for physical activity among university students: a systematic review and meta-analysis. *American Journal of Pharmaceutical Education*, 87(8), 100538. https://doi.org/10.1016/j.ajpe.2023.100538
  
  \* Brinkerhoff, S. A., **Murrah, W. M.**, & Roper, J. A. (2023). The relationship between gait speed and mediolateral stability depends on a person’s preferred speed. *Scientific Reports*, 13(1). https://doi.org/10.1038/s41598-023-32948-z
 
-\*Lyons, K.D., Parks, A.G., Dadematthews, O.D., Zandieh, N.L.,  McHenry P.A., Games K.E., Goodlett M.D., **Murrah W.M.**, Roper J.A., Sefton, J.M. (2023). Core and Whole-Body Vibration Exercise Improve Military Foot March Performance in Novice Trainees: A Randomized Controlled Trial. *Military Medicine* 188 (1-2), e254-e259.
+\*Lyons, K.D., Parks, A.G., Dadematthews, O.D., Zandieh, N.L.,  McHenry P.A., Games K.E., Goodlett M.D., **Murrah W.M.**, Roper J.A., Sefton, J.M. (2023). Core and Whole-Body Vibration Exercise Improve Military Foot March Performance in Novice Trainees: A Randomized Controlled Trial. *Military Medicine* 188 (1-2), e254-e259. https://doi.org/10.1093/milmed/usab294
 
-\*Brinkerhoff, S.A., Mathew, G.M., **Murrah, W.M.**, Chang, A.M., Roper, J.A., Neely, K.A. (2022). Sleep restriction impairs visually and memory-guided force control. *PlOS One*, 17 (9), e0274121.  https://doi.org/10.1371/journal.pone.0274121 
+\*Brinkerhoff, S.A., Mathew, G.M., **Murrah, W.M.**, Chang, A.M., Roper, J.A., Neely, K.A. (2022). Sleep restriction impairs visually and memory-guided force control. *PlOS One*, 17 (9), e0274121. https://doi.org/10.1371/journal.pone.0274121 
 
-\*Larsen, J., Roper, J., **Murrah, W.M.**, & Zabala, M. (2022). Cognitive dual-task alters Local Dynamic Stability of lower extremity during common movements. *Journal of Bioimechanics*, 137, 111077.
+\*Larsen, J., Roper, J., **Murrah, W.M.**, & Zabala, M. (2022). Cognitive dual-task alters Local Dynamic Stability of lower extremity during common movements. *Journal of Bioimechanics*, 137, 111077. https://doi.org/10.1016/j.jbiomech.2022.111077
 
-\*Parks, A.G., **Murrah, W.M.**, Weimer, W.H., McHenry, P.A., Biogham, D., Giordano, K., & Sefton, J.M. (2022). Impact of two types of fitness programs on soldier physical fitness. *International Journal of Exercise Science*, 15(4) 1326-1346.
+\*Parks A.G., **Murrah W.M.**, Weimar W.H., McHenry P.A., Bigham D., Giordano K., Sefton J.M.(2023) Impact of Two Types of Fitness Programs on Soldier Physical Fitness. *International Journal of Exercise Science. 15(4):1326-1346. doi: 10.70252/YBTF2692. PMID: 36582397; PMCID: PMC9762245.
 
-\*Lyons, K.D., Parks, A.G., Dadematthews, O., Zandieh, N., McHenry, P., Games, K.e., Goodlett, M.D., **Murrah, W.M.**, Roper, J., & Sefton, J.M. (2021). Core and whole body vibration exercise influences muscle sensitivity and posture during a military foot march. *International Journal of Environmental Research and Public Health*, 18, 4966.
+\*Lyons, K. D., Parks, A. G., Dadematthews, O., Zandieh, N., McHenry, P., Games, K. E., Goodlett, M. D., **Murrah, W.**, Roper, J., & Sefton, J. M. (2021). Core and Whole Body Vibration Exercise Influences Muscle Sensitivity and Posture during a Military Foot March. International Journal of Environmental Research and Public Health, 18(9), 4966. https://doi.org/10.3390/ijerph18094966
 
-Frugé, A.D., Smith, K.S., Riviere, A.J., Tenpenny-Chigas, R., Demark-Wahnefried, W., Arthur, A.E., **Murrah, W.M.**, Pol, W.J., Jasper, S.L., Morrow, C.D., Arnold, R.D. Braxton-Lloyd, K. (2021). A Dietary Intervention High in Green Leafy Vegetables Reduces Oxidative DNA Damage in Adults at Increased Risk of Colorectal Cancer: Biological Outcomes of the Randomized Controlled Meat and Three Greens (M3G) Feasibility Trial. *Nutrients*, 13(3), 1220.
+Frugé, A. D., Smith, K. S., Riviere, A. J., Tenpenny-Chigas, R., Demark-Wahnefried, W., Arthur, A. E., **Murrah, W. M.**, van der Pol, W. J., Jasper, S. L., Morrow, C. D., Arnold, R. D., & Braxton-Lloyd, K. (2021). A Dietary Intervention High in Green Leafy Vegetables Reduces Oxidative DNA Damage in Adults at Increased Risk of Colorectal Cancer: Biological Outcomes of the Randomized Controlled Meat and Three Greens (M3G) Feasibility Trial. *Nutrients*, 13(4), 1220. https://doi.org/10.3390/nu13041220
+
+**Murrah, W. M.** (2019). Compound Bias due to Measurement Error When Comparing Regression Coefficients. Educational and Psychological Measurement, 80(3), 548-577. https://doi.org/10.1177/0013164419874494 
 
 **Murrah, W. M.** (2020). Compound Bias Due to Measurement Error When Comparing Regression Coefficients, *Educational and Psychological Measurement*, 80(3).
 
-\*Wright, T. K., **Murrah, W. M.**, Zabala M. E. (2020). Knee Valgus vs. Knee Abduction Angle: Comparative Analysis of Medial Knee Collapse Definitions in Female Athletes, *Journal of Biomechanical Engineering*.
+\*Oldfather, T., Zabala, M., Goodlett, M., and **Murrah, W.** (2020). Knee Valgus Versus Knee Abduction Angle: Comparative Analysis of Medial Knee Collapse Definitions in Female Athletes. Journal of Biomechanical Engineering*, December 2020; 142(12): 121002. https://doi.org/10.1115/1.4047549
 
-Chesser, S., **Murrah, W. M.**, Forbes, S. A. (2020). Impact of Personality on Choice of Instructional Delivery and Students’ Performance, *American Journal of Distance Education*.
+Chesser, S., **Murrah, W.**, & Forbes, S. A. (2020). Impact of Personality on Choice of Instructional Delivery and Students' Performance. *American Journal of Distance Education*, 34(3), 211-223. https://doi.org/10.1080/08923647.2019.1705116
 
-Frugé, A.D., Smith, K.S., Riviere, A.J., Demark-Wahnefried, W., Arthur, A.E. **Murrah, W.M.**, Morrow, C.D. Arnold, R.D. Braxton-Lloyd, K. (2019) Primary outcomes of a randomized controlled crossover trial to explore the effects of a high chlorophyll dietary intervention to reduce colon cancer risk in adults: The Meat and Three Greens (M3G) Feasibility Trial,	*Nutrients*.
+Frugé, A. D., Smith, K. S., Riviere, A. J., Demark-Wahnefried, W., Arthur, A. E., **Murrah, W. M.**, Morrow, C. D., Arnold, R. D., & Braxton-Lloyd, K. (2019). Primary Outcomes of a Randomized Controlled Crossover Trial to Explore the Effects of a High Chlorophyll Dietary Intervention to Reduce Colon Cancer Risk in Adults: The Meat and Three Greens (M3G) Feasibility Trial. *Nutrients*, 11(10), 2349. https://doi.org/10.3390/nu11102349
 
-\*Friesen, K. B. Barfield, J.W. **Murrah, W.M.**, Dugas, J.R. Andrews, J.R. and Oliver, G.D. (2019).The Association of Upper-Body Kinematics and Earned Run Average of National Collegiate Athletic Association Division I Softball Pitchers,	*Journal of Strength and Conditioning*.
+\*Friesen, K. B. Barfield, J.W. **Murrah, W.M.**, Dugas, J.R. Andrews, J.R. and Oliver, G.D. (2019).The Association of Upper-Body Kinematics and Earned Run Average of National Collegiate Athletic Association Division I Softball Pitchers,	*Journal of Strength and Conditioning*, 35(11):p 3145-3150, November 2021. DOI: 10.1519/JSC.0000000000003287
 
-\*Brinkerhoff, S. A., **Murrah, W. M.** Hutchison, Z. Miller, M. Roper, J. A. (2019). 	Words matter: Instructions dictate "self-selected" walking speed in young adults.	*Gait & Posture*.
+\*Brinkerhoff, S. A., **Murrah, W. M.** Hutchison, Z. Miller, M. Roper, J. A. (2019). 	Words matter: Instructions dictate "self-selected" walking speed in young adults. *Gait & Posture* 95 (June). 223-226. doi: 10.1016/j.gaitpost.2019.07.379
 
 Brock, L. L., **Murrah, W. M.**, Cottone, E. A., Mashburn, A. J., & Grissmer, D. W. (2018). An after-school intervention targeting executive function and visuospatial skills also improves classroom behavior. *International Journal of Behavioral Development*.  
 
@@ -101,12 +120,6 @@ Ponitz, C. C., Brock, L. L., **Murrah, W. M.**, Bell, L., Worzalla, S., Grissmer
 
 Grissmer, D., Grimm, K.J., Aiyer, S.M., **Murrah, W. M.**, & Steele, J.S. (2010). Fine motor skills and early comprehension of the world: Two new school readiness indicators. *Developmental Psychology*, 46(5), 1008-1017.
 
-## Articles Under Review
-
- Sarah A. Brinkerhoff, Natalia Sanchez, Meral N. Culver, **William M. Murrah**, Austin T. Robinson, J. Danielle McCullough, Matthew W. Miller, Jaimie A. Roper (under review). The dual timescales of gait adaptation: initial stability adjustments followed by subsequent energetic cost adjustments. *Journal of Experimental Biology*. 
- 
-Philip Joshua Agostinell,  Nicholas C. Bordonie,  Braxton A. Linder, Ann M. Robbins, Parker L. Jones, Lee F. Reagan, C. Brooks Mobley, Matthew W. Miller, **William M. Murrah**, JoEllen M. Sefton (under review). Acute exercise impacts heart rate variability but not cognitive flexibility during subsequent simulated firefighter occupational tasks. *European Journal of Applied Physiology*.
-
 ## Presentations
 
 **Murrah, W.M.**, Chesser, S., Neugebauer, N.M. (2022). *Nonlinear Gompertz Curves of Mathematics, Reading, and Science Achievement*, Presented at the American Educational Research Association Annual Meeting.
@@ -114,6 +127,8 @@ Philip Joshua Agostinell,  Nicholas C. Bordonie,  Braxton A. Linder, Ann M. Robb
 \* Moore, T.F., Chesser, S., **Murrah, W.M.** (2022), *Improving Connectedness in At-Risk Adolescents in the Alternative School Setting*, Poster presented at the American Educational Research Association Annual Meeting.
 
 \*Neely, K., Zhang, Z., Blanton, R., Gladson,  M., Schmid, D. Heavlin, H., Brown, S., Brown, S., Pangelinan, M.,  **Murrah, W. M.** (2022). *Balance Control in Midlife Adults With and Without ADHD.* Presented at North American Society for the Psychology of Sport and Physical Activity. 
+
+\*Baelar, M.F.B., Parma, J.O., **Murrah, W.M.**, Miller, M. (2021). Meta-Analysis of Enhanced Expectancies in Motor Learning. *Journal of Sport & Exercise Psychology* Volume: 43 (2021) ISSN: 0895-2779 Online ISSN: 1543-2904
 
 \*Neely, K., Zhang, Z., & **Murrah, W. M.** (2021) *Variability in Motor Control: Multilevel Modeling Reveals Meaningful Differences in Force Output.* Presented at North American Society for the Psychology of Sport and Physical Activity Virtual Conference.
 

@@ -1,0 +1,43 @@
+---
+title: "Research Trajectory and Professional Summary"
+format:
+  html:
+    toc: true
+    toc-depth: 2
+    number-sections: false
+    theme: cosmo
+---
+
+## Short Bio
+
+I am an education researcher focused on understanding and modeling the complex systems that shape student achievement and othe educational outcomes. My work integrates rigorous statistical methods, artificial intelligence, and ecological theory to explore how resource allocation, parental influence, and out-of-school time interact within and across educational contexts. Drawing on insights from cognitive science and ecology, I use both empirical data and computational simulations to investigate causal mechanisms in education systems. I am particularly interested in using agent-based modeling and reinforcement learning to test and refine theory, and in leveraging AI to enhance every stage of the research process — from data collection and cleaning to visualization, analysis, and communication. My goal is to empower researchers and policymakers with tools and models that reflect the true complexity of education systems.
+
+## Professional & Educational Experience
+
+- **Peer-Reviewed Publications**: 29 journal articles, 1 book chapter, over 2,290 citations (h-index 13, i10-index 15)
+- **Grants**: Principal Investigator or Co-PI on 7 funded projects
+- **Doctoral Advising**: 30 committee roles, 3 chair/co-chair roles
+- **Teaching**: 4 graduate and undergraduate courses annually, consistently high evaluations, recipient of the Gerald and Emily Leischuck Graduate Teaching Award
+- **Workshops and Tutorials**: Led 15 professional development workshops and published 7 blog tutorials related to statistical modeling and education research methods
+- **Professional Service**: Member of editorial board, ad hoc reviewer for 6 journals, active in faculty and administrative search committees
+
+## Research Interests
+
+### Current Focus Areas
+- **Bayesian Methods and Mixed Effects Modeling**: Guided by the work of Gelman, McElreath, Bolker, and Meehl
+- **Causal Inference**: Incorporating DAGs and methods inspired by Judea Pearl
+- **Resource Allocation**: Exploring disparities in rural vs. urban educational opportunities
+- **Parental Influence and Engagement**: Understanding family-level dynamics as part of broader systems
+- **Out-of-School Time**: Modeling its impact on achievement and engagement
+
+### Emerging Directions
+- **Ecological Modeling in Education**: Building simulation-based representations of education systems
+- **Agent-Based Modeling + Reinforcement Learning**: Programming agents using theory to validate models against real-world data
+- **AI-Enhanced Research Pipelines**: Using AI for data collection, cleaning, synthesis, and complex analysis
+- **Theory Development Through Simulation**: Moving beyond hypothesis testing to iterative theory refinement using AI-supported tools
+
+### Long-Term Vision
+To lead a research agenda that redefines educational inquiry through theory-informed, AI-supported ecological modeling. This includes developing novel methods for causal inference, training graduate students to use these approaches, and producing scholarship that informs both academic research and state/federal education policy.
+
+
+
