@@ -43,7 +43,7 @@ library(vitae)
 ## Publications
  \* indicates collaboration with students.
 
-Agostinelli, P. J., Bordonie, N. C., Linder, B. A., Robbins, A. M., Jones, P. L., Reagan, L. F., Mobley, C. B., Miller, M. W., **Murrah, W. M.**, & Sefton, J. M. (2024). Acute exercise impacts heart rate variability but not cognitive flexibility during subsequent simulated firefighter occupational tasks. *European Journal of Applied Physiology*, 125(4), 1037–1048. https://doi.org/https://doi.org/10.1007/s00421-024-05650-9
+Agostinelli, P. J., Bordonie, N. C., Linder, B. A., Robbins, A. M., Jones, P. L., Reagan, L. F., Mobley, C. B., Miller, M. W., **Murrah, W. M.**, & Sefton, J. M. (2025). Acute exercise impacts heart rate variability but not cognitive flexibility during subsequent simulated firefighter occupational tasks. *European Journal of Applied Physiology*, 125(4), 1037–1048. https://doi.org/https://doi.org/10.1007/s00421-024-05650-9
 
 Agostinelli, P. J., Bordonie, N. C., Linder, B. A., Robbins, A. M., Jones, P. L., Reagan, L. F., Mobley, C. B., Miller, M. W., **Murrah, W. M.**, & Sefton, J. M. (2025). The Effect of Fitness on Performance, Exertion, and Cognition During Simulated Firefighter Occupational Tasks. Journal of Functional Morphology and Kinesiology, 10(2), 129. https://doi.org/10.3390/jfmk10020129
 
